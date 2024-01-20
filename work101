@@ -1,0 +1,5466 @@
+user Desktop
+$ git --list
+unknown option: --list
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+user Desktop
+$ cd
+user ~
+$ git --list
+unknown option: --list
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+user ~
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Vishnu Sharma
+user.email=vishnusharma9677@gmail.com
+color.ui=auto
+merge.conflictstyle=diff3
+core.editor=atom --wait
+(END)
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Vishnu Sharma
+user.email=vishnusharma9677@gmail.com
+color.ui=auto
+merge.conflictstyle=diff3
+core.editor=atom --wait
+(END)
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Vishnu Sharma
+user.email=vishnusharma9677@gmail.com
+color.ui=auto
+merge.conflictstyle=diff3
+core.editor=atom --wait
+(END)
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Vishnu Sharma
+user.email=vishnusharma9677@gmail.com
+color.ui=auto
+merge.conflictstyle=diff3
+core.editor=atom --wait
+(END)...skipping...
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Vishnu Sharma
+user.email=vishnusharma9677@gmail.com
+color.ui=auto
+merge.conflictstyle=diff3
+core.editor=atom --wait
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+user ~
+$
+user ~
+$ cd "D:\Projects\git_project_1"
+user (master #) git_project_1
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        learning-programs/
+
+nothing added to commit but untracked files present (use "git add" to track)
+user (master #) git_project_1
+$ git --version
+git version 2.40.0.windows.1
+user (master #) git_project_1
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+user (master #) git_project_1
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        learning-programs/
+
+nothing added to commit but untracked files present (use "git add" to track)
+user (master #) git_project_1
+$ ls
+learning-programs/
+user (master #) git_project_1
+$ cd ..
+user Projects
+$ ls
+course-git-blog-project/  git_project_1/
+user Projects
+$ cd course-git-blog-project
+user (master) course-git-blog-project
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+user (master) course-git-blog-project
+$ ls
+CODEOWNERS  README.md  css/  img/  index.html  js/
+user (master) course-git-blog-project
+$ start index.html
+user (master) course-git-blog-project
+$ start VSCodium.exe index.html
+The system cannot find the file VSCodium.exe.
+user (master) course-git-blog-project
+$ start C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\VSCodium.app index.html
+The system cannot find the file C:UsersuserAppDataRoamingMicrosoftWindowsStart.
+user (master) course-git-blog-project
+$ start C:\Users\user\AppData\Local\Programs\VSCodium index.html
+The system cannot find the file C:UsersuserAppDataLocalProgramsVSCodium.
+user (master) course-git-blog-project
+$  start C:\Users\user\AppData\Local\Programs\VSCodium.app index.html
+The system cannot find the file C:UsersuserAppDataLocalProgramsVSCodium.app.
+user (master) course-git-blog-project
+$ code index.html
+bash: code: command not found
+user (master) course-git-blog-project
+$ code index.html
+bash: code: command not found
+user (master) course-git-blog-project
+$ codium index.html
+user (master) course-git-blog-project
+$ l̥
+user (master) course-git-blog-project
+$ git log
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+commit 7279ecb7fe82b399e21f5b580be7ecf818dc55ea
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:27 2021 +0530
+
+    Update .gitignore
+
+commit 488e6c87d543456c322f28003d8d9b7974f94897
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:10 2021 +0530
+
+    Create manual.yml
+
+commit 06e9739a4d0672fd8b5ab6a364cafaff574b52ae
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Feb 22 16:12:43 2021 +0530
+
+    Update README.md
+
+    Fix a broken link
+
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+
+    Center content on page
+
+commit 6f04ddd1fb41934c52e290bc937e45f9cd5949aa
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:30:40 2016 -0500
+
+    Add breakpoint for large-sized screens
+
+commit 50d835d7b53f46deb1365fe7598e0ea7011dbc3e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:39:19 2016 -0500
+
+    Add breakpoint for medium-sized screens
+
+commit 0768f3dc08a4cb849119cb7388ed2b73018e4851
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:25:22 2016 -0500
+
+    Add space around page edge
+
+commit f9720a967757575d348b51851badae128628e051
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:11:51 2016 -0500
+
+    Style page header
+
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+commit c16506960bddd6ae6220a8a3a5ba5d758ecc5d0f
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:09:00 2016 -0500
+
+    Add divider between content/footer
+
+commit 39ff53ca09e33c9662a6ace83a048a8677750120
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:06:44 2016 -0500
+
+    Add divider between main/side content
+
+commit 20a34703c4f738b7d9325aa014eaccdbe492023e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:01:34 2016 -0500
+
+    Add missing profile picture
+
+commit 8d3ea36d1b222bfe3e54b16aa172d50f56c18352
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:58:31 2016 -0500
+
+    Style 'read more' links
+
+commit e6a8e075b0d3337ed7247dc6c55ea915c1128eb3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:45:33 2016 -0500
+
+    Set paragraph line-height
+
+commit 4a60beba8ca0deeddd8c89286de8872eeb53aaa7
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:43:03 2016 -0500
+
+    Set default text color
+
+commit 5de135ab4ca51b7d86b53ea1f81bca100c6eeb40
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:42:07 2016 -0500
+
+    Set article timestamp color
+
+commit 921c387577ec3d01812ffc59cd880ef0fdf7bb75
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:39:23 2016 -0500
+
+    Align article header content
+
+commit 74716936aad866737238df690fa79d73e6a36742
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:37:38 2016 -0500
+
+    Make article images responsive
+
+commit 8dec321937cb235201dfa20a3482f9704ab7c90a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:25:32 2016 -0500
+
+    Add 'visuallyhidden' helper class
+
+    The visually hidden helper class from the H5BP project hides headings
+    but leaves them available to screen readers.
+
+    https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145
+
+commit d638b69ea14ebea48a24abc76ef01a64e892104b
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:58:27 2016 -0500
+
+    Add article images
+
+commit 70f6352d1d62258a980fed825f2f2df4e698923a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:49:35 2016 -0500
+
+    Set default fonts
+
+commit 9a21730d9240cdee3bacc20ac59a045cf678581a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:28:03 2016 -0500
+
+    Give body a default color
+
+commit cdce4fa76d9ad532d52a4b1236ca9d0cb3f3e5e3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:20:23 2016 -0500
+
+    Add Normalize.css CSS reset to project
+
+commit 10ea3fe1853521eaf1c62585ad21c8b2d4964812
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:15:20 2016 -0500
+
+    Add colors & set better box-sizing
+
+commit fdf549341ffc482820351294c9ece13525bf89ea
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:35:50 2016 -0500
+
+    Add sidebar content
+
+commit 8a11b3f5f807d3bf415174358758206ac224f33c
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:23:51 2016 -0500
+
+    Update article dates
+
+    Oops - the articles weren't posted all at the same time! This change
+    makes sure they're set to reasonable dates/times.
+
+    Easter Egg! These dates are the birthdays of:
+
+    * my brother
+    * my dad
+    * my twin sister
+    * and me!
+
+
+    * and me!
+
+Date:   Sat Dec 3 15:42:07 2016 -0500
+
+    Set article timestamp color
+
+commit 921c387577ec3d01812ffc59cd880ef0fdf7bb75
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:39:23 2016 -0500
+
+    Align article header content
+
+commit 74716936aad866737238df690fa79d73e6a36742
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:37:38 2016 -0500
+    Align article header content
+
+commit 74716936aad866737238df690fa79d73e6a36742
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:37:38 2016 -0500
+
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+commit 7279ecb7fe82b399e21f5b580be7ecf818dc55ea
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:27 2021 +0530
+
+    Update .gitignore
+
+commit 488e6c87d543456c322f28003d8d9b7974f94897
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:10 2021 +0530
+
+    Create manual.yml
+
+commit 06e9739a4d0672fd8b5ab6a364cafaff574b52ae
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Feb 22 16:12:43 2021 +0530
+
+    Update README.md
+
+    Fix a broken link
+
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+user (master) course-git-blog-project
+$ git log
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+commit 7279ecb7fe82b399e21f5b580be7ecf818dc55ea
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:27 2021 +0530
+
+    Update .gitignore
+
+commit 488e6c87d543456c322f28003d8d9b7974f94897
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:10 2021 +0530
+
+    Create manual.yml
+
+commit 06e9739a4d0672fd8b5ab6a364cafaff574b52ae
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Feb 22 16:12:43 2021 +0530
+
+    Update README.md
+
+    Fix a broken link
+
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+
+    Center content on page
+
+commit 6f04ddd1fb41934c52e290bc937e45f9cd5949aa
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:30:40 2016 -0500
+
+    Add breakpoint for large-sized screens
+
+commit 50d835d7b53f46deb1365fe7598e0ea7011dbc3e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:39:19 2016 -0500
+
+    Add breakpoint for medium-sized screens
+
+commit 0768f3dc08a4cb849119cb7388ed2b73018e4851
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:25:22 2016 -0500
+
+    Add space around page edge
+
+commit f9720a967757575d348b51851badae128628e051
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:11:51 2016 -0500
+
+    Style page header
+
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+commit c16506960bddd6ae6220a8a3a5ba5d758ecc5d0f
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+
+    Center content on page
+
+commit 6f04ddd1fb41934c52e290bc937e45f9cd5949aa
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:30:40 2016 -0500
+
+    Add breakpoint for large-sized screens
+
+commit 50d835d7b53f46deb1365fe7598e0ea7011dbc3e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:39:19 2016 -0500
+
+    Add breakpoint for medium-sized screens
+
+commit 0768f3dc08a4cb849119cb7388ed2b73018e4851
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:25:22 2016 -0500
+
+    Add space around page edge
+
+commit f9720a967757575d348b51851badae128628e051
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:11:51 2016 -0500
+
+    Style page header
+
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+commit c16506960bddd6ae6220a8a3a5ba5d758ecc5d0f
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:09:00 2016 -0500
+
+    Add divider between content/footer
+
+commit 39ff53ca09e33c9662a6ace83a048a8677750120
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:06:44 2016 -0500
+
+    Add divider between main/side content
+
+commit 20a34703c4f738b7d9325aa014eaccdbe492023e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:01:34 2016 -0500
+
+    Add missing profile picture
+
+commit 8d3ea36d1b222bfe3e54b16aa172d50f56c18352
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:58:31 2016 -0500
+
+    Style 'read more' links
+
+commit e6a8e075b0d3337ed7247dc6c55ea915c1128eb3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:45:33 2016 -0500
+
+    Set paragraph line-height
+
+commit 4a60beba8ca0deeddd8c89286de8872eeb53aaa7
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:43:03 2016 -0500
+
+    Set default text color
+
+commit 5de135ab4ca51b7d86b53ea1f81bca100c6eeb40
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:42:07 2016 -0500
+
+    Set article timestamp color
+
+commit 921c387577ec3d01812ffc59cd880ef0fdf7bb75
+:
+Date:   Sat Dec 3 15:58:31 2016 -0500
+
+    Style 'read more' links
+
+commit e6a8e075b0d3337ed7247dc6c55ea915c1128eb3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:45:33 2016 -0500
+
+    Set paragraph line-height
+
+commit 4a60beba8ca0deeddd8c89286de8872eeb53aaa7
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:43:03 2016 -0500
+
+    Set default text color
+
+commit 5de135ab4ca51b7d86b53ea1f81bca100c6eeb40
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:42:07 2016 -0500
+
+    Set article timestamp color
+
+commit 921c387577ec3d01812ffc59cd880ef0fdf7bb75
+
+quser (master) course-git-blog-project
+$
+git lig
+fuser (master) course-git-blog-project
+$ qgit lig
+bash: qgit: command not found
+user (master) course-git-blog-project
+$ git log
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+user (master) course-git-blog-project
+$ git log --oneline
+b0da0bd (HEAD -> master, origin/master, origin/HEAD) updating .gitignore file
+a2ec9ea Create CODEOWNERS
+00dca03 Fix the JIRA ticket title
+566ab7f Update manual.yml
+57e6291 Update manual.yml
+7279ecb Update .gitignore
+488e6c8 Create manual.yml
+06e9739 Update README.md
+a3dc99a Center content on page
+6f04ddd Add breakpoint for large-sized screens
+50d835d Add breakpoint for medium-sized screens
+0768f3d Add space around page edge
+b0da0bd (HEAD -> master, origin/master, origin/HEAD) updating .gitignore file
+a2ec9ea Create CODEOWNERS
+00dca03 Fix the JIRA ticket title
+566ab7f Update manual.yml
+57e6291 Update manual.yml
+7279ecb Update .gitignore
+488e6c8 Create manual.yml
+06e9739 Update README.md
+a3dc99a Center content on page
+6f04ddd Add breakpoint for large-sized screens
+50d835d Add breakpoint for medium-sized screens
+0768f3d Add space around page edge
+f9720a9 Style page header
+8aa6668 Convert social links from text to images
+c165069 Add divider between content/footer
+39ff53c Add divider between main/side content
+20a3470 Add missing profile picture
+8d3ea36 Style 'read more' links
+e6a8e07 Set paragraph line-height
+4a60beb Set default text color
+5de135a Set article timestamp color
+921c387 Align article header content
+7471693 Make article images responsive
+user (master) course-git-blog-project
+$ git log --stat
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+ CODEOWNERS | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+ .github/workflows/manual.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+ .github/workflows/manual.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+ .github/workflows/manual.yml | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+user (master) course-git-blog-project
+$ git log -p
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
++project.docx
+ .DS_Store
+ .github/**
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+diff --git a/CODEOWNERS b/CODEOWNERS
+new file mode 100644
+index 0000000..2a6bcb2
+--- /dev/null
++++ b/CODEOWNERS
+@@ -0,0 +1 @@
++*           @udacity/active-public-content
+\ No newline at end of file
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
++project.docx
+ .DS_Store
+ .github/**
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+diff --git a/CODEOWNERS b/CODEOWNERS
+new file mode 100644
+index 0000000..2a6bcb2
+--- /dev/null
++++ b/CODEOWNERS
+@@ -0,0 +1 @@
++*           @udacity/active-public-content
+\ No newline at end of file
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index e195b59..0721b9e 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -33,7 +33,7 @@ jobs:
+         project: CONUPDATE
+         issuetype: Task
+         summary: |
+-          Github PR - nd000    IPND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
++          Github PR - nd104    PDSND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
+         description: |
+            Repo link: https://github.com/${{ github.repository }}
+            PR no. ${{ github.event.pull_request.number }}
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index 7fbd1b9..e195b59 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -40,7 +40,7 @@ jobs:
+            PR title: ${{ github.event.pull_request.title }}
+            PR description: ${{ github.event.pull_request.description }}
+            In addition, please resolve other issues, if any.
+-        fields: '{"components": [{"name":"Github PR"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"]}'
++        fields: '{"components": [{"name":"nd104 - Programming for Data Science"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"], "priority":{"id": "4"}}'
+
+     - name: Log created issue
+       run: echo "Issue ${{ steps.create.outputs.issue }} was created"
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index f06ede8..7fbd1b9 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -5,8 +5,8 @@ name: Manual Workflow
+ # Controls when the action will run.
+ on:
+   # Triggers the workflow on pull request events but only for the master branch
+-  pull_request:
+-    branches: [ master ]
++  pull_request_target:
++    types: [assigned, opened, reopened]
+
+   # Allows you to run this workflow manually from the Actions tab
+   workflow_dispatch:
+
+commit 7279ecb7fe82b399e21f5b580be7ecf818dc55ea
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:27 2021 +0530
+
+    Update .gitignore
+
+diff --git a/.gitignore b/.gitignore
+index e43b0f9..370ba78 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1 +1,2 @@
+ .DS_Store
++.github/**
+
+commit 488e6c87d543456c322f28003d8d9b7974f94897
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:10 2021 +0530
+
+    Create manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+new file mode 100644
+index 0000000..f06ede8
+--- /dev/null
++++ b/.github/workflows/manual.yml
+@@ -0,0 +1,46 @@
++# Workflow to ensure whenever a Github PR is submitted,
++# a JIRA ticket gets created automatically.
++name: Manual Workflow
++
++# Controls when the action will run.
++on:
++  # Triggers the workflow on pull request events but only for the master branch
++  pull_request:
++    branches: [ master ]
++
++  # Allows you to run this workflow manually from the Actions tab
++  workflow_dispatch:
++
++jobs:
++  test-transition-issue:
++    name: Convert Github Issue to Jira Issue
++    runs-on: ubuntu-latest
++    steps:
++    - name: Checkout
++      uses: actions/checkout@master
++
++    - name: Login
++      uses: atlassian/gajira-login@master
++      env:
++        JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
++        JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
++        JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
++
++    - name: Create NEW JIRA ticket
++      id: create
++      uses: atlassian/gajira-create@master
++      with:
++        project: CONUPDATE
++        issuetype: Task
++        summary: |
++          Github PR - nd000    IPND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
++        description: |
++           Repo link: https://github.com/${{ github.repository }}
++           PR no. ${{ github.event.pull_request.number }}
++           PR title: ${{ github.event.pull_request.title }}
++           PR description: ${{ github.event.pull_request.description }}
++           In addition, please resolve other issues, if any.
++        fields: '{"components": [{"name":"Github PR"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"]}'
++
++    - name: Log created issue
++      run: echo "Issue ${{ steps.create.outputs.issue }} was created"
+
+commit 06e9739a4d0672fd8b5ab6a364cafaff574b52ae
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Feb 22 16:12:43 2021 +0530
+
+    Update README.md
+
+    Fix a broken link
+
+diff --git a/README.md b/README.md
+index 9d4ce77..957f446 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,6 @@
+ # Version Control with Git
+
+-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
++This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+
+ This repo contains the source code of a blog project that will be used throughout the course.
+
+
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+
+    Center content on page
+
+diff --git a/css/app.css b/css/app.css
+index 07c36fa..3cbd0b8 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -38,6 +38,11 @@ p {
+     line-height: 1.5;
+ }
+
++.container {
++    margin: auto;
++    max-width: 1300px;
++}
++
+
+ /*** Header Styling ***/
+ .page-header {
+
+commit 6f04ddd1fb41934c52e290bc937e45f9cd5949aa
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:30:40 2016 -0500
+
+    Add breakpoint for large-sized screens
+
+diff --git a/css/app.css b/css/app.css
+index 78cef20..07c36fa 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -142,6 +142,37 @@ footer {
+     }
+ }
+
++@media (min-width: 1000px) {
++    .page-header {
++        min-height: 35vh;
++    }
++
++    .container {
++        display: flex;
++    }
++
++    main {
++        flex: 1 1 70%;
++    }
++
++    aside {
++        display: block;
++        border-top: 0;
++        border-left: 2px solid #dbe2e8;
++        margin: 0;
++        padding: 2em;
++        flex: 0 1 30%;
++        align-self: flex-start;
++    }
++
++    .sidebar-text {
++        margin-left: 0;
++    }
++
++    .sidebar-text h2 {
++        margin-top: 0.5em;
++    }
++}
+
+ /*** Helper Classes ***/
+
+diff --git a/index.html b/index.html
+index 0381211..43f5b28 100644
+--- a/index.html
++++ b/index.html
+@@ -15,83 +15,85 @@
+         <h1>Expedition</h1>
+     </header>
+
+-    <main>
+-        <h2 class="visuallyhidden">Articles</h2>
++    <div class="container">
++        <main>
++            <h2 class="visuallyhidden">Articles</h2>
+
+-        <article>
+-            <header>
+-                <h3>Chasing the Snow</h3>
+-                <time datetime="2016-05-12T08:00">May 12</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Chasing the Snow</h3>
++                    <time datetime="2016-05-12T08:00">May 12</time>
++                </header>
+
+-            <img src="img/chasing-the-snow.jpg" alt="A dogsled team in Alaska">
++                <img src="img/chasing-the-snow.jpg" alt="A dogsled team in Alaska">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Seeing Clearly</h3>
+-                <time datetime="2016-05-09T10:35">May 09</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Seeing Clearly</h3>
++                    <time datetime="2016-05-09T10:35">May 09</time>
++                </header>
+
+-            <img src="img/seeing-clearly.png" alt="Mountain peaks in Alaska">
++                <img src="img/seeing-clearly.png" alt="Mountain peaks in Alaska">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Something to Remember</h3>
+-                <time datetime="2016-05-06T22:50">May 06</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Something to Remember</h3>
++                    <time datetime="2016-05-06T22:50">May 06</time>
++                </header>
+
+-            <img src="img/something-to-remember.jpg" alt="A winding, snow-covered road">
++                <img src="img/something-to-remember.jpg" alt="A winding, snow-covered road">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Village in the Valley</h3>
+-                <time datetime="2016-05-06T22:49">May 06</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Village in the Valley</h3>
++                    <time datetime="2016-05-06T22:49">May 06</time>
++                </header>
+
+-            <img src="img/village-in-the-valley.jpg" alt="A quaint winter village nestled in the mountain">
++                <img src="img/village-in-the-valley.jpg" alt="A quaint winter village nestled in the mountain">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
+-    </main>
++                <a class="read-more" href="#">Read more</a>
++            </article>
++        </main>
+
+-    <aside>
+-        <img src="img/profilepic.jpg" alt="My profile picture">
++        <aside>
++            <img src="img/profilepic.jpg" alt="My profile picture">
+
+-        <div class="sidebar-text">
+-            <h2>About Me</h2>
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
++            <div class="sidebar-text">
++                <h2>About Me</h2>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+
+-            <section>
+-                <h3 class="visuallyhidden">Social Links</h3>
+-                <a class="social-link" href="https://twitter.com/udacity">
+-                    <img src="img/social-twitter.png" alt="Twitter">
+-                </a>
+-                <a class="social-link" href="https://www.instagram.com/udacity/">
+-                    <img src="img/social-instagram.png" alt="Instagram">
+-                </a>
+-                <a class="social-link" href="https://plus.google.com/+Udacity">
+-                    <img src="img/social-google.png" alt="Google Plus">
+-                </a>
+-            </section>
+-        </div>
+-    </aside>
++                <section>
++                    <h3 class="visuallyhidden">Social Links</h3>
++                    <a class="social-link" href="https://twitter.com/udacity">
++                        <img src="img/social-twitter.png" alt="Twitter">
++                    </a>
++                    <a class="social-link" href="https://www.instagram.com/udacity/">
++                        <img src="img/social-instagram.png" alt="Instagram">
++                    </a>
++                    <a class="social-link" href="https://plus.google.com/+Udacity">
++                        <img src="img/social-google.png" alt="Google Plus">
++                    </a>
++                </section>
++            </div>
++        </aside>
++    </div>
+
+     <footer>
+         Made with &hearts; by Richard @ Udacity
+
+commit 50d835d7b53f46deb1365fe7598e0ea7011dbc3e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:39:19 2016 -0500
+
+    Add breakpoint for medium-sized screens
+
+diff --git a/css/app.css b/css/app.css
+index 204b2a6..78cef20 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -127,6 +127,22 @@ footer {
+ }
+
+
++/*** Reponsive Styles ***/
++@media (min-width: 650px) {
++    aside {
++        display: flex;
++    }
++
++    .sidebar-text {
++        margin-left: 2em;
++    }
++
++    .sidebar-text h2 {
++        margin-top: 0;
++    }
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
++project.docx
+ .DS_Store
+ .github/**
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+diff --git a/CODEOWNERS b/CODEOWNERS
+new file mode 100644
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master,
+origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
++project.docx
+ .DS_Store
+ .github/**
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+    Create CODEOWNERS
+
+diff --git a/CODEOWNERS b/CODEOWNERS
+new file mode 100644
+index 0000000..2a6bcb2
+--- /dev/null
++++ b/CODEOWNERS
+@@ -0,0 +1 @@
++*           @udacity/active-public-content
+\ No newline at end of file
+
+commit 00dca03d2a75640851b7ed37de64d0e5bdb4054e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Aug 2 10:38:51 2021 +0530
+
+    Fix the JIRA ticket title
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index e195b59..0721b9e 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -33,7 +33,7 @@ jobs:
+         project: CONUPDATE
+         issuetype: Task
+         summary: |
+-          Github PR - nd000    IPND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
++          Github PR - nd104    PDSND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
+         description: |
+            Repo link: https://github.com/${{ github.repository }}
+            PR no. ${{ github.event.pull_request.number }}
+
+commit 566ab7ff29a2b996adbfabc61bb4fae1a73c828e
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Jul 29 20:42:09 2021 +0530
+
+    Update manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index 7fbd1b9..e195b59 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -40,7 +40,7 @@ jobs:
+            PR title: ${{ github.event.pull_request.title }}
+            PR description: ${{ github.event.pull_request.description }}
+            In addition, please resolve other issues, if any.
+-        fields: '{"components": [{"name":"Github PR"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"]}'
++        fields: '{"components": [{"name":"nd104 - Programming for Data Science"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"], "priority":{"id": "4"}}'
+
+     - name: Log created issue
+       run: echo "Issue ${{ steps.create.outputs.issue }} was created"
+
+commit 57e6291d80ab44ead53a7f33f7bf70a2ffee47fa
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Wed May 5 12:02:39 2021 +0530
+
+    Update manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+index f06ede8..7fbd1b9 100644
+--- a/.github/workflows/manual.yml
++++ b/.github/workflows/manual.yml
+@@ -5,8 +5,8 @@ name: Manual Workflow
+ # Controls when the action will run.
+ on:
+   # Triggers the workflow on pull request events but only for the master branch
+-  pull_request:
+-    branches: [ master ]
++  pull_request_target:
++    types: [assigned, opened, reopened]
+
+   # Allows you to run this workflow manually from the Actions tab
+   workflow_dispatch:
+
+commit 7279ecb7fe82b399e21f5b580be7ecf818dc55ea
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:27 2021 +0530
+
+    Update .gitignore
+
+diff --git a/.gitignore b/.gitignore
+index e43b0f9..370ba78 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1 +1,2 @@
+ .DS_Store
++.github/**
+
+commit 488e6c87d543456c322f28003d8d9b7974f94897
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon May 3 14:16:10 2021 +0530
+
+    Create manual.yml
+
+diff --git a/.github/workflows/manual.yml b/.github/workflows/manual.yml
+new file mode 100644
+index 0000000..f06ede8
+--- /dev/null
++++ b/.github/workflows/manual.yml
+@@ -0,0 +1,46 @@
++# Workflow to ensure whenever a Github PR is submitted,
++# a JIRA ticket gets created automatically.
++name: Manual Workflow
++
++# Controls when the action will run.
++on:
++  # Triggers the workflow on pull request events but only for the master branch
++  pull_request:
++    branches: [ master ]
++
++  # Allows you to run this workflow manually from the Actions tab
++  workflow_dispatch:
++
++jobs:
++  test-transition-issue:
++    name: Convert Github Issue to Jira Issue
++    runs-on: ubuntu-latest
++    steps:
++    - name: Checkout
++      uses: actions/checkout@master
++
++    - name: Login
++      uses: atlassian/gajira-login@master
++      env:
++        JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
++        JIRA_USER_EMAIL: ${{ secrets.JIRA_USER_EMAIL }}
++        JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
++
++    - name: Create NEW JIRA ticket
++      id: create
++      uses: atlassian/gajira-create@master
++      with:
++        project: CONUPDATE
++        issuetype: Task
++        summary: |
++          Github PR - nd000    IPND | Repo: course-git-blog-project  | PR# ${{github.event.number}}
++        description: |
++           Repo link: https://github.com/${{ github.repository }}
++           PR no. ${{ github.event.pull_request.number }}
++           PR title: ${{ github.event.pull_request.title }}
++           PR description: ${{ github.event.pull_request.description }}
++      uses: atlassian/gajira-create@master
++      with:
++        project: CONUPDATE
++        issuetype: Task
++        summary: |
++          Github PR - nd000    IPND | Repo: course-git-blog-project  | PR# ${{g
+ithub.event.number}}
++        description: |
++           Repo link: https://github.com/${{ github.repository }}
++           PR no. ${{ github.event.pull_request.number }}
++           PR title: ${{ github.event.pull_request.title }}
++           PR description: ${{ github.event.pull_request.description }}
++           In addition, please resolve other issues, if any.
++        fields: '{"components": [{"name":"Github PR"}], "customfield_16449":"https://classroom.udacity.com/nanodegrees/nd000/parts/e36917bf-8075-4d97-8045-f610b37f041f", "customfield_16450":"Resolve the PR", "labels": ["github"]}'
++
++    - name: Log created issue
++      run: echo "Issue ${{ steps.create.outputs.issue }} was created"
+
+commit 06e9739a4d0672fd8b5ab6a364cafaff574b52ae
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Mon Feb 22 16:12:43 2021 +0530
+
+    Update README.md
+
+    Fix a broken link
+
+diff --git a/README.md b/README.md
+index 9d4ce77..957f446 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,6 @@
+ # Version Control with Git
+
+-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
++This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+
+ This repo contains the source code of a blog project that will be used throughout the course.
+
+
+commit a3dc99a197c66ccb87e3f4905502a6c6eddd15b1
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:34:15 2016 -0500
+
+    Center content on page
+
+diff --git a/css/app.css b/css/app.css
+index 07c36fa..3cbd0b8 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -38,6 +38,11 @@ p {
+     line-height: 1.5;
+ }
+
++.container {
++    margin: auto;
++    max-width: 1300px;
++}
++
+
+ /*** Header Styling ***/
+ .page-header {
+
+commit 6f04ddd1fb41934c52e290bc937e45f9cd5949aa
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 16:30:40 2016 -0500
+
+    Add breakpoint for large-sized screens
+
+diff --git a/css/app.css b/css/app.css
+index 78cef20..07c36fa 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -142,6 +142,37 @@ footer {
+     }
+ }
+
++@media (min-width: 1000px) {
++    .page-header {
++        min-height: 35vh;
++    }
++
++    .container {
++        display: flex;
++    }
++
++    main {
++        flex: 1 1 70%;
++    }
++
++    aside {
++        display: block;
++        border-top: 0;
++        border-left: 2px solid #dbe2e8;
++        margin: 0;
++        padding: 2em;
++        flex: 0 1 30%;
++        align-self: flex-start;
++    }
++
++    .sidebar-text {
++        margin-left: 0;
++    }
++
++    .sidebar-text h2 {
++        margin-top: 0.5em;
++    }
++}
+
+ /*** Helper Classes ***/
+
+diff --git a/index.html b/index.html
+index 0381211..43f5b28 100644
+--- a/index.html
++++ b/index.html
+@@ -15,83 +15,85 @@
+         <h1>Expedition</h1>
+     </header>
+
+-    <main>
+-        <h2 class="visuallyhidden">Articles</h2>
++    <div class="container">
++        <main>
++            <h2 class="visuallyhidden">Articles</h2>
+
+-        <article>
+-            <header>
+-                <h3>Chasing the Snow</h3>
+-                <time datetime="2016-05-12T08:00">May 12</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Chasing the Snow</h3>
++                    <time datetime="2016-05-12T08:00">May 12</time>
++                </header>
+
+-            <img src="img/chasing-the-snow.jpg" alt="A dogsled team in Alaska">
++                <img src="img/chasing-the-snow.jpg" alt="A dogsled team in Alaska">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Seeing Clearly</h3>
+-                <time datetime="2016-05-09T10:35">May 09</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Seeing Clearly</h3>
++                    <time datetime="2016-05-09T10:35">May 09</time>
++                </header>
+
+-            <img src="img/seeing-clearly.png" alt="Mountain peaks in Alaska">
++                <img src="img/seeing-clearly.png" alt="Mountain peaks in Alaska">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Something to Remember</h3>
+-                <time datetime="2016-05-06T22:50">May 06</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Something to Remember</h3>
++                    <time datetime="2016-05-06T22:50">May 06</time>
++                </header>
+
+-            <img src="img/something-to-remember.jpg" alt="A winding, snow-covered road">
++                <img src="img/something-to-remember.jpg" alt="A winding, snow-covered road">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
++                <a class="read-more" href="#">Read more</a>
++            </article>
+
+-        <article>
+-            <header>
+-                <h3>Village in the Valley</h3>
+-                <time datetime="2016-05-06T22:49">May 06</time>
+-            </header>
++            <article>
++                <header>
++                    <h3>Village in the Valley</h3>
++                    <time datetime="2016-05-06T22:49">May 06</time>
++                </header>
+
+-            <img src="img/village-in-the-valley.jpg" alt="A quaint winter village nestled in the mountain">
++                <img src="img/village-in-the-valley.jpg" alt="A quaint winter village nestled in the mountain">
+
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a class="read-more" href="#">Read more</a>
+-        </article>
+-    </main>
++                <a class="read-more" href="#">Read more</a>
++            </article>
++        </main>
+
+-    <aside>
+-        <img src="img/profilepic.jpg" alt="My profile picture">
++        <aside>
++            <img src="img/profilepic.jpg" alt="My profile picture">
+
+-        <div class="sidebar-text">
+-            <h2>About Me</h2>
+-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
++            <div class="sidebar-text">
++                <h2>About Me</h2>
++                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+
+-            <section>
+-                <h3 class="visuallyhidden">Social Links</h3>
+-                <a class="social-link" href="https://twitter.com/udacity">
+-                    <img src="img/social-twitter.png" alt="Twitter">
+-                </a>
+-                <a class="social-link" href="https://www.instagram.com/udacity/">
+-                    <img src="img/social-instagram.png" alt="Instagram">
+-                </a>
+-                <a class="social-link" href="https://plus.google.com/+Udacity">
+-                    <img src="img/social-google.png" alt="Google Plus">
+-                </a>
+-            </section>
+-        </div>
+-    </aside>
++                <section>
++                    <h3 class="visuallyhidden">Social Links</h3>
++                    <a class="social-link" href="https://twitter.com/udacity">
++                        <img src="img/social-twitter.png" alt="Twitter">
++                    </a>
++                    <a class="social-link" href="https://www.instagram.com/udacity/">
++                        <img src="img/social-instagram.png" alt="Instagram">
++                    </a>
++                    <a class="social-link" href="https://plus.google.com/+Udacity">
++                        <img src="img/social-google.png" alt="Google Plus">
++                    </a>
++                </section>
++            </div>
++        </aside>
++    </div>
+
+     <footer>
+         Made with &hearts; by Richard @ Udacity
+
+commit 50d835d7b53f46deb1365fe7598e0ea7011dbc3e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:39:19 2016 -0500
+
+    Add breakpoint for medium-sized screens
+
+diff --git a/css/app.css b/css/app.css
+index 204b2a6..78cef20 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -127,6 +127,22 @@ footer {
+ }
+
+
++/*** Reponsive Styles ***/
++@media (min-width: 650px) {
++    aside {
++        display: flex;
++    }
++
++    .sidebar-text {
++        margin-left: 2em;
++    }
++
++    .sidebar-text h2 {
++        margin-top: 0;
++    }
++}
++
++
+ /*** Helper Classes ***/
+
+ /* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
+diff --git a/index.html b/index.html
+index 9aee048..0381211 100644
+--- a/index.html
++++ b/index.html
+@@ -73,21 +73,24 @@
+
+     <aside>
+         <img src="img/profilepic.jpg" alt="My profile picture">
+-        <h2>About Me</h2>
+-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+-
+-        <section>
+-            <h3 class="visuallyhidden">Social Links</h3>
+-            <a class="social-link" href="https://twitter.com/udacity">
+-                <img src="img/social-twitter.png" alt="Twitter">
+-            </a>
+-            <a class="social-link" href="https://www.instagram.com/udacity/">
+-                <img src="img/social-instagram.png" alt="Instagram">
+-            </a>
+-            <a class="social-link" href="https://plus.google.com/+Udacity">
+-                <img src="img/social-google.png" alt="Google Plus">
+-            </a>
+-        </section>
++
++        <div class="sidebar-text">
++            <h2>About Me</h2>
++            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
++
++            <section>
++                <h3 class="visuallyhidden">Social Links</h3>
++                <a class="social-link" href="https://twitter.com/udacity">
++                    <img src="img/social-twitter.png" alt="Twitter">
++                </a>
++                <a class="social-link" href="https://www.instagram.com/udacity/">
++                    <img src="img/social-instagram.png" alt="Instagram">
++                </a>
++                <a class="social-link" href="https://plus.google.com/+Udacity">
++                    <img src="img/social-google.png" alt="Google Plus">
++                </a>
++            </section>
++        </div>
+     </aside>
+
+     <footer>
+
+commit 0768f3dc08a4cb849119cb7388ed2b73018e4851
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:25:22 2016 -0500
+
+    Add space around page edge
+
+diff --git a/css/app.css b/css/app.css
+index 8f8e5d7..204b2a6 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -68,6 +68,11 @@ h1::after {
+
+
+ /*** Article Styling ***/
++article,
++aside {
++    margin: 2em;
++}
++
+ article header {
+     display: flex;
+     align-items: baseline;
+
+commit f9720a967757575d348b51851badae128628e051
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 10:11:51 2016 -0500
+
+    Style page header
+
+diff --git a/css/app.css b/css/app.css
+index 8f04485..8f8e5d7 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -38,6 +38,35 @@ p {
+     line-height: 1.5;
+ }
+
++
++/*** Header Styling ***/
++.page-header {
++    background-image: url('../img/headerimage.jpg');
++    background-position: 50% 75%;
++    background-size: cover;
++    text-align: center;
++    padding: 1em;
++    margin-bottom: 2rem;
++    min-height: 25vh;
++}
++
++h1 {
++    letter-spacing: 8px;
++    position: relative;
++    text-transform: uppercase;
++    text-shadow: 0 0 1px white;
++}
++
++h1::after {
++    border: 5px solid #02ccba;
++    border-radius: 50%;
++    content: '';
++    height: 15px;
++    width: 15px;
++    position: absolute;
++}
++
++
+ /*** Article Styling ***/
+ article header {
+     display: flex;
+diff --git a/img/headerimage.jpg b/img/headerimage.jpg
+new file mode 100644
+index 0000000..3b939d3
+Binary files /dev/null and b/img/headerimage.jpg differ
+diff --git a/index.html b/index.html
+index 5ce95ed..9aee048 100644
+--- a/index.html
++++ b/index.html
+@@ -11,7 +11,7 @@
+ </head>
+ <body>
+
+-    <header>
++    <header class="page-header">
+         <h1>Expedition</h1>
+     </header>
+
+
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+diff --git a/css/app.css b/css/app.css
+index 4dd2150..8f04485 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -78,6 +78,11 @@ aside {
+     padding-top: 2em;
+ }
+
++.social-link {
++    display: inline-block;
++    margin-right: 0.75em;
++}
++
+
+ /*** Footer Styling ***/
+ footer {
+diff --git a/img/social-google.png b/img/social-google.png
+new file mode 100644
+index 0000000..e86eedc
+Binary files /dev/null and b/img/social-google.png differ
+diff --git a/img/social-instagram.png b/img/social-instagram.png
+new file mode 100644
+index 0000000..9608443
+Binary files /dev/null and b/img/social-instagram.png differ
+diff --git a/img/social-twitter.png b/img/social-twitter.png
+new file mode 100644
+index 0000000..6bbd0e1
+Binary files /dev/null and b/img/social-twitter.png differ
+diff --git a/index.html b/index.html
+index 87c68f3..5ce95ed 100644
+--- a/index.html
++++ b/index.html
+@@ -78,9 +78,15 @@
+
+         <section>
+             <h3 class="visuallyhidden">Social Links</h3>
+-            <a href="#">Twitter</a>
+-            <a href="#">Google Plus</a>
+-            <a href="#">Instagram</a>
++            <a class="social-link" href="https://twitter.com/udacity">
++                <img src="img/social-twitter.png" alt="Twitter">
++            </a>
++            <a class="social-link" href="https://www.instagram.com/udacity/">
++                <img src="img/social-instagram.png" alt="Instagram">
++            </a>
++            <a class="social-link" href="https://plus.google.com/+Udacity">
++                <img src="img/social-google.png" alt="Google Plus">
++            </a>
+         </section>
+     </aside>
+
+
+commit c16506960bddd6ae6220a8a3a5ba5d758ecc5d0f
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:09:00 2016 -0500
+
+    Add divider between content/footer
+
+diff --git a/css/app.css b/css/app.css
+index df50c72..4dd2150 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -79,6 +79,15 @@ aside {
+ }
+
+
++/*** Footer Styling ***/
++footer {
++    border-top: 2px solid #dbe2e8;
++    margin-top: 4em;
++    padding: 2em;
++    text-align: center;
++}
++
++
+ /*** Helper Classes ***/
+
+ /* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
+
+commit 39ff53ca09e33c9662a6ace83a048a8677750120
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:06:44 2016 -0500
+
+    Add divider between main/side content
+
+diff --git a/css/app.css b/css/app.css
+index de79be6..df50c72 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -71,6 +71,14 @@ article img {
+ }
+
+
++/*** Sidebar Styling ***/
++aside {
++    border-top: 2px solid #dbe2e8;
++    margin-top: 2em;
++    padding-top: 2em;
++}
++
++
+ /*** Helper Classes ***/
+
+ /* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
+
+commit 20a34703c4f738b7d9325aa014eaccdbe492023e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:01:34 2016 -0500
+
+    Add missing profile picture
+
+diff --git a/img/profilepic.jpg b/img/profilepic.jpg
+new file mode 100644
+index 0000000..8aaf2ec
+Binary files /dev/null and b/img/profilepic.jpg differ
+diff --git a/index.html b/index.html
+index 413af06..87c68f3 100644
+--- a/index.html
++++ b/index.html
+@@ -72,6 +72,7 @@
+     </main>
+
+     <aside>
++        <img src="img/profilepic.jpg" alt="My profile picture">
+         <h2>About Me</h2>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+
+
+commit 8d3ea36d1b222bfe3e54b16aa172d50f56c18352
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:58:31 2016 -0500
+
+    Style 'read more' links
+
+diff --git a/css/app.css b/css/app.css
+index cd48bfb..de79be6 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -54,6 +54,22 @@ article img {
+     width: 100%;
+ }
+
++.read-more {
++    color: #02ccba;
++    font-family: 'Open Sans', sans-serif;
++    font-weight: bold;
++    text-decoration: none;
++    text-transform: uppercase;
++}
++
++.read-more::after {
++    content: '►';
++    position: relative;
++    left: 7px;
++    font-size: 80%;
++    top: -1px;
++}
++
+
+ /*** Helper Classes ***/
+
+diff --git a/index.html b/index.html
+index 8df8c22..413af06 100644
+--- a/index.html
++++ b/index.html
+@@ -28,7 +28,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -41,7 +41,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -54,7 +54,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -67,7 +67,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+     </main>
+
+
+commit e6a8e075b0d3337ed7247dc6c55ea915c1128eb3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:45:33 2016 -0500
+
+    Set paragraph line-height
+
+diff --git a/css/app.css b/css/app.css
+index 2ecdf2f..cd48bfb 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -34,6 +34,10 @@ h4 {
+     font-family: 'Open Sans', sans-serif;
+ }
+
++p {
++    line-height: 1.5;
++}
++
+ /*** Article Styling ***/
+ article header {
+     display: flex;
+
+commit 4a60beba8ca0deeddd8c89286de8872eeb53aaa7
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:43:03 2016 -0500
+
+    Set default text color
+
+diff --git a/css/app.css b/css/app.css
+index e248129..2ecdf2f 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -20,6 +20,7 @@ html {
+
+ body {
+     background-color: #fafbfc;
++    color: #2e3d49;
+     font-family: Georgia, Times, 'Times New Roman', serif;
+ }
+
+
+user (master) course-git-blog-project
+$ git log -p --stat
+commit b0da0bd4af16ae0b81cde66810f1b9a7a3d77f9f (HEAD -> master, origin/master, origin/HEAD)
+Author: jake <jake.coplen@udacity.com>
+Date:   Tue Jun 28 10:39:37 2022 -0700
+
+    updating .gitignore file
+---
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.gitignore b/.gitignore
+index 370ba78..b9702ba 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
++project.docx
+ .DS_Store
+ .github/**
+
+commit a2ec9ea8e5b7b4310b6fa16c25789e99b7df9bde
+Author: SudKul <48475411+SudKul@users.noreply.github.com>
+Date:   Thu Oct 21 18:54:00 2021 +0530
+
+user (master) course-git-blog-project
+$ git log -p 8d3ea36
+commit 8d3ea36d1b222bfe3e54b16aa172d50f56c18352
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:58:31 2016 -0500
+
+    Style 'read more' links
+
+diff --git a/css/app.css b/css/app.css
+index cd48bfb..de79be6 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -54,6 +54,22 @@ article img {
+index cd48bfb..de79be6 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -54,6 +54,22 @@ article img {
+     width: 100%;
+ }
+
++.read-more {
++    color: #02ccba;
++    font-family: 'Open Sans', sans-serif;
++    font-weight: bold;
++    text-decoration: none;
++    text-transform: uppercase;
++}
++
++.read-more::after {
++    content: '►';
++    position: relative;
++    left: 7px;
++    font-size: 80%;
++    top: -1px;
++}
++
+
+ /*** Helper Classes ***/
+
+diff --git a/index.html b/index.html
+index 8df8c22..413af06 100644
+--- a/index.html
++++ b/index.html
+@@ -28,7 +28,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -41,7 +41,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -54,7 +54,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+
+         <article>
+@@ -67,7 +67,7 @@
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+-            <a href="#">Read more</a>
++            <a class="read-more" href="#">Read more</a>
+         </article>
+     </main>
+
+
+commit e6a8e075b0d3337ed7247dc6c55ea915c1128eb3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:45:33 2016 -0500
+
+    Set paragraph line-height
+
+diff --git a/css/app.css b/css/app.css
+index 2ecdf2f..cd48bfb 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -34,6 +34,10 @@ h4 {
+     font-family: 'Open Sans', sans-serif;
+ }
+
++p {
++    line-height: 1.5;
++}
++
+ /*** Article Styling ***/
+ article header {
+     display: flex;
+
+commit 4a60beba8ca0deeddd8c89286de8872eeb53aaa7
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:43:03 2016 -0500
+
+    Set default text color
+
+diff --git a/css/app.css b/css/app.css
+index e248129..2ecdf2f 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -20,6 +20,7 @@ html {
+
+ body {
+     background-color: #fafbfc;
++    color: #2e3d49;
+     font-family: Georgia, Times, 'Times New Roman', serif;
+ }
+
+
+commit 5de135ab4ca51b7d86b53ea1f81bca100c6eeb40
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:42:07 2016 -0500
+
+    Set article timestamp color
+
+diff --git a/css/app.css b/css/app.css
+index 2b3a90c..e248129 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -40,6 +40,10 @@ article header {
+     justify-content: space-between;
+ }
+
++time {
++    color: #7d97ad;
++}
++
+ article img {
+     height: auto;
+     width: 100%;
+
+commit 921c387577ec3d01812ffc59cd880ef0fdf7bb75
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:39:23 2016 -0500
+
+    Align article header content
+
+diff --git a/css/app.css b/css/app.css
+index 1e4b742..2b3a90c 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -34,6 +34,12 @@ h4 {
+ }
+
+ /*** Article Styling ***/
++article header {
++    display: flex;
++    align-items: baseline;
++    justify-content: space-between;
++}
++
+ article img {
+     height: auto;
+     width: 100%;
+
+commit 74716936aad866737238df690fa79d73e6a36742
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:37:38 2016 -0500
+
+    Make article images responsive
+
+diff --git a/css/app.css b/css/app.css
+index 191328e..1e4b742 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -33,6 +33,13 @@ h4 {
+     font-family: 'Open Sans', sans-serif;
+ }
+
++/*** Article Styling ***/
++article img {
++    height: auto;
++    width: 100%;
++}
++
++
+ /*** Helper Classes ***/
+
+ /* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
+
+commit 8dec321937cb235201dfa20a3482f9704ab7c90a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 15:25:32 2016 -0500
+
+    Add 'visuallyhidden' helper class
+
+    The visually hidden helper class from the H5BP project hides headings
+    but leaves them available to screen readers.
+
+    https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145
+
+diff --git a/css/app.css b/css/app.css
+index 72d778d..191328e 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -32,3 +32,18 @@ h3,
+ h4 {
+     font-family: 'Open Sans', sans-serif;
+ }
++
++/*** Helper Classes ***/
++
++/* from the HTML5 Boilerplate project for hidden, but accessible headings: https://github.com/h5bp/html5-boilerplate/blob/master/dist/css/main.css#L126-L145 */
++.visuallyhidden {
++    border: 0;
++    clip: rect(0 0 0 0);
++    height: 1px;
++    margin: -1px;
++    overflow: hidden;
++    padding: 0;
++    position: absolute;
++    width: 1px;
++    white-space: nowrap;
++}
+diff --git a/index.html b/index.html
+index eb2b357..8df8c22 100644
+--- a/index.html
++++ b/index.html
+@@ -16,7 +16,7 @@
+     </header>
+
+     <main>
+-        <h2>Articles</h2>
++        <h2 class="visuallyhidden">Articles</h2>
+
+         <article>
+             <header>
+@@ -76,7 +76,7 @@
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
+
+         <section>
+-            <h3>Social Links</h3>
++            <h3 class="visuallyhidden">Social Links</h3>
+             <a href="#">Twitter</a>
+             <a href="#">Google Plus</a>
+             <a href="#">Instagram</a>
+
+commit d638b69ea14ebea48a24abc76ef01a64e892104b
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:58:27 2016 -0500
+
+    Add article images
+
+diff --git a/img/chasing-the-snow.jpg b/img/chasing-the-snow.jpg
+new file mode 100644
+index 0000000..01b9040
+Binary files /dev/null and b/img/chasing-the-snow.jpg differ
+diff --git a/img/seeing-clearly.png b/img/seeing-clearly.png
+new file mode 100644
+index 0000000..ba03fa8
+Binary files /dev/null and b/img/seeing-clearly.png differ
+diff --git a/img/something-to-remember.jpg b/img/something-to-remember.jpg
+new file mode 100644
+index 0000000..aed964f
+Binary files /dev/null and b/img/something-to-remember.jpg differ
+diff --git a/img/village-in-the-valley.jpg b/img/village-in-the-valley.jpg
+new file mode 100644
+index 0000000..368146c
+Binary files /dev/null and b/img/village-in-the-valley.jpg differ
+diff --git a/index.html b/index.html
+index 7bee180..eb2b357 100644
+--- a/index.html
++++ b/index.html
+@@ -24,6 +24,8 @@
+                 <time datetime="2016-05-12T08:00">May 12</time>
+             </header>
+
++            <img src="img/chasing-the-snow.jpg" alt="A dogsled team in Alaska">
++
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+             <a href="#">Read more</a>
+@@ -35,6 +37,8 @@
+                 <time datetime="2016-05-09T10:35">May 09</time>
+             </header>
+
++            <img src="img/seeing-clearly.png" alt="Mountain peaks in Alaska">
++
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+             <a href="#">Read more</a>
+@@ -46,6 +50,8 @@
+                 <time datetime="2016-05-06T22:50">May 06</time>
+             </header>
+
++            <img src="img/something-to-remember.jpg" alt="A winding, snow-covered road">
++
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+             <a href="#">Read more</a>
+@@ -57,6 +63,8 @@
+                 <time datetime="2016-05-06T22:49">May 06</time>
+             </header>
+
++            <img src="img/village-in-the-valley.jpg" alt="A quaint winter village nestled in the mountain">
++
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+             <a href="#">Read more</a>
+
+commit 70f6352d1d62258a980fed825f2f2df4e698923a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:49:35 2016 -0500
+
+    Set default fonts
+
+diff --git a/css/app.css b/css/app.css
+index c7db172..72d778d 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -20,4 +20,15 @@ html {
+
+ body {
+     background-color: #fafbfc;
++    font-family: Georgia, Times, 'Times New Roman', serif;
++}
++
++h1 {
++    font-family: 'Montserrat', sans-serif;
++}
++
++h2,
++h3,
++h4 {
++    font-family: 'Open Sans', sans-serif;
+ }
+diff --git a/index.html b/index.html
+index a9a4f14..7bee180 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,7 @@
+     <title>Blog Project</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="description" content="">
++    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans">
+     <link rel="stylesheet" href="css/normalize.min.css">
+     <link rel="stylesheet" href="css/app.css">
+ </head>
+
+commit 9a21730d9240cdee3bacc20ac59a045cf678581a
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:28:03 2016 -0500
+
+    Give body a default color
+
+diff --git a/css/app.css b/css/app.css
+index 1367765..c7db172 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -17,3 +17,7 @@ html {
+ *::after {
+     box-sizing: inherit;
+ }
++
++body {
++    background-color: #fafbfc;
++}
+
+commit cdce4fa76d9ad532d52a4b1236ca9d0cb3f3e5e3
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:20:23 2016 -0500
+
+    Add Normalize.css CSS reset to project
+
+diff --git a/css/normalize.min.css b/css/normalize.min.css
+new file mode 100644
+index 0000000..452a01f
+--- /dev/null
++++ b/css/normalize.min.css
+@@ -0,0 +1 @@
++button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-block}progress,sub,sup{vertical-align:baseline}html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0} menu,article,aside,details,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative}sub{bottom:-.25em}sup{top:-.5em}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{}button,select{text-transform:none}[type=submit], [type=reset],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:ButtonText dotted 1px}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}[hidden],template{display:none}/*# sourceMappingURL=normalize.min.css.map */
+diff --git a/index.html b/index.html
+index b269b91..a9a4f14 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,7 @@
+     <title>Blog Project</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="description" content="">
++    <link rel="stylesheet" href="css/normalize.min.css">
+     <link rel="stylesheet" href="css/app.css">
+ </head>
+ <body>
+
+commit 10ea3fe1853521eaf1c62585ad21c8b2d4964812
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 16:15:20 2016 -0500
+
+    Add colors & set better box-sizing
+
+diff --git a/css/app.css b/css/app.css
+index e69de29..1367765 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -0,0 +1,19 @@
++/*** Site Colors ***
++
++pale-grey: #fafbfc
++pale-grey-two: #dbe2e8
++dark: #2e3d49
++bluegrey: #7d97ad
++aquamarine: #02ccba
++
++*/
++
++html {
++    box-sizing: border-box;
++}
++
++*,
++*::before,
++*::after {
++    box-sizing: inherit;
++}
+
+commit fdf549341ffc482820351294c9ece13525bf89ea
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:35:50 2016 -0500
+
+    Add sidebar content
+
+diff --git a/index.html b/index.html
+index 95b0772..b269b91 100644
+--- a/index.html
++++ b/index.html
+@@ -61,7 +61,17 @@
+         </article>
+     </main>
+
+-    <aside></aside>
++    <aside>
++        <h2>About Me</h2>
++        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
++
++        <section>
++            <h3>Social Links</h3>
++            <a href="#">Twitter</a>
++            <a href="#">Google Plus</a>
++            <a href="#">Instagram</a>
++        </section>
++    </aside>
+
+     <footer>
+         Made with &hearts; by Richard @ Udacity
+
+commit 8a11b3f5f807d3bf415174358758206ac224f33c
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:23:51 2016 -0500
+
++            <a href="#">Google Plus</a>
++            <a href="#">Instagram</a>
++        </section>
++    </aside>
+
+     <footer>
+         Made with &hearts; by Richard @ Udacity
+
+commit 8a11b3f5f807d3bf415174358758206ac224f33c
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:23:51 2016 -0500
+
+    Update article dates
+
+    Oops - the articles weren't posted all at the same time! This change
+    makes sure they're set to reasonable dates/times.
+
+    Easter Egg! These dates are the birthdays of:
+
+    * my brother
+    * my dad
+    * my twin sister
+    * and me!
+
+diff --git a/index.html b/index.html
+index f79bafe..95b0772 100644
+--- a/index.html
++++ b/index.html
+@@ -19,7 +19,7 @@
+         <article>
+             <header>
+                 <h3>Chasing the Snow</h3>
+-                <time datetime="2016-05-06T19:00">May 06</time>
++                <time datetime="2016-05-12T08:00">May 12</time>
+             </header>
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+@@ -30,7 +30,7 @@
+         <article>
+             <header>
+                 <h3>Seeing Clearly</h3>
+-                <time datetime="2016-05-06T19:00">May 06</time>
++                <time datetime="2016-05-09T10:35">May 09</time>
+             </header>
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+@@ -41,7 +41,7 @@
+         <article>
+             <header>
+                 <h3>Something to Remember</h3>
+-                <time datetime="2016-05-06T19:00">May 06</time>
++                <time datetime="2016-05-06T22:50">May 06</time>
+             </header>
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+@@ -52,7 +52,7 @@
+         <article>
+             <header>
+                 <h3>Village in the Valley</h3>
+-                <time datetime="2016-05-06T19:00">May 06</time>
++                <time datetime="2016-05-06T22:49">May 06</time>
+             </header>
+
+             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
+
+commit 4e16c7edc3daff020788e5df98ecdd959a65218e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:21:09 2016 -0500
+
+    Add article content
+
+diff --git a/index.html b/index.html
+index e207620..f79bafe 100644
+--- a/index.html
++++ b/index.html
+@@ -13,7 +13,53 @@
+         <h1>Expedition</h1>
+     </header>
+
+-    <main></main>
++    <main>
++        <h2>Articles</h2>
++
++        <article>
++            <header>
++                <h3>Chasing the Snow</h3>
++                <time datetime="2016-05-06T19:00">May 06</time>
++            </header>
++
++            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++
++            <a href="#">Read more</a>
++        </article>
++
++        <article>
++            <header>
++                <h3>Seeing Clearly</h3>
++                <time datetime="2016-05-06T19:00">May 06</time>
++            </header>
++
++            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++
++            <a href="#">Read more</a>
++        </article>
++
++        <article>
++            <header>
++                <h3>Something to Remember</h3>
++                <time datetime="2016-05-06T19:00">May 06</time>
++            </header>
++
++            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++
++            <a href="#">Read more</a>
++        </article>
++
++        <article>
++            <header>
++                <h3>Village in the Valley</h3>
++                <time datetime="2016-05-06T19:00">May 06</time>
++            </header>
++
++            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, laborum dolorem, dolor error nihil vitae similique necessitatibus omnis iure quasi vel iste repellendus alias! Asperiores voluptatem, maiores quibusdam eaque consequatur.</p>
++
++            <a href="#">Read more</a>
++        </article>
++    </main>
+
+     <aside></aside>
+
+
+commit b4521d72d75912999737a65b33b1a3f2b35c8500
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 12:49:53 2016 -0500
+
+    Add starting HTML structure
+
+diff --git a/index.html b/index.html
+index 5bb533a..e207620 100644
+--- a/index.html
++++ b/index.html
+@@ -9,7 +9,17 @@
+ </head>
+ <body>
+
++    <header>
++        <h1>Expedition</h1>
++    </header>
+
++    <main></main>
++
++    <aside></aside>
++
++    <footer>
++        Made with &hearts; by Richard @ Udacity
++    </footer>
+
+     <script src="js/app.js"></script>
+ </body>
+
+commit 40e2199a4b2fe59e5690311d15e9d7df4da82d6e
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 12:37:39 2016 -0500
+
+    Add starter files
+
+diff --git a/.editorconfig b/.editorconfig
+new file mode 100644
+index 0000000..779f99a
+--- /dev/null
++++ b/.editorconfig
+@@ -0,0 +1,12 @@
++root = true
++
++[*]
++indent_style = space
++indent_size = 4
++end_of_line = lf
++charset = utf-8
++trim_trailing_whitespace = true
++insert_final_newline = true
++
++[*.md]
++trim_trailing_whitespace = false
+diff --git a/.eslintrc.json b/.eslintrc.json
+new file mode 100644
+index 0000000..60bbd99
+--- /dev/null
++++ b/.eslintrc.json
+@@ -0,0 +1,115 @@
++{
++  "extends": "eslint:recommended",
++  "parserOptions": {
++    "ecmaVersion": 6
++  },
++  "env": {
++    "browser": true
++  },
++  "rules": {
++    "curly": [
++      "error",
++      "all"
++    ],
++    "eqeqeq": [
++      "error",
++      "allow-null"
++    ],
++    "no-alert": "error",
++    "no-caller": "error",
++    "no-console": "off",
++    "no-empty-function": "error",
++    "no-eval": "error",
++    "no-multi-spaces": "error",
++    "no-multi-str": "error",
++    "no-global-assign": "error",
++    "no-new": "error",
++    "no-new-func": "error",
++    "no-new-wrappers": "error",
++    "no-return-assign": "error",
++    "no-script-url": "error",
++    "no-sequences": "error",
++    "no-unused-expressions": "error",
++    "no-with": "error",
++    "yoda": "error",
++    "array-bracket-spacing": [
++      "error",
++      "never"
++    ],
++    "brace-style": [
++      "error",
++      "1tbs"
++    ],
++    "no-shadow": "error",
++    "no-shadow-restricted-names": "error",
++    "no-undef-init": "error",
++    "camelcase": "error",
++    "comma-spacing": "error",
++    "eol-last": "error",
++    "quotes": [
++      "error",
++      "single",
++      {
++        "avoidEscape": true,
++        "allowTemplateLiterals": true
++      }
++    ],
++    "indent": [
++      "error",
++      4,
++      {
++        "SwitchCase": 1
++      }
++    ],
++    "key-spacing": [
++      "error",
++      {
++        "beforeColon": false,
++        "afterColon": true
++      }
++    ],
++    "keyword-spacing": "error",
++    "new-cap": "error",
++    "new-parens": "error",
++    "no-array-constructor": "error",
++    "no-multiple-empty-lines": [
++      "error",
++      {
++        "max": 2
++      }
++    ],
++    "no-new-object": "error",
++    "func-call-spacing": [
++      "error",
++      "never"
++    ],
++    "no-trailing-spaces": "error",
++    "semi": [
++      "error",
++      "always"
++    ],
++    "semi-spacing": [
++      "error",
++      {
++        "before": false,
++        "after": true
++      }
++    ],
++    "space-before-blocks": [
++      "error",
++      "always"
++    ],
++    "space-before-function-paren": [
++      "error",
++      {
++        "anonymous": "always",
++        "named": "never"
++      }
++    ],
++    "space-in-parens": [
++      "error",
++      "never"
++    ],
++    "space-infix-ops": "error"
++  }
++}
+diff --git a/.gitattributes b/.gitattributes
+new file mode 100644
+index 0000000..ebf1b6e
+--- /dev/null
++++ b/.gitattributes
+@@ -0,0 +1,3 @@
++# Set the default behavior, in case people don't have core.autocrlf set.
++# https://help.github.com/articles/dealing-with-line-endings/
++* text=auto
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e43b0f9
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++.DS_Store
+diff --git a/.htmlhintrc b/.htmlhintrc
+new file mode 100644
+index 0000000..3739801
+--- /dev/null
++++ b/.htmlhintrc
+@@ -0,0 +1,16 @@
++{
++    "tagname-lowercase": true,
++    "attr-lowercase": true,
++    "attr-value-double-quotes": true,
++    "attr-no-duplication": true,
++    "doctype-first": true,
++    "id-unique": true,
++    "src-not-empty": true,
++    "alt-require": true,
++    "spec-char-escape": true,
++    "tag-pair": true,
++    "title-require": true,
++    "doctype-html5": true,
++    "style-disabled": true,
++    "head-script-disabled": true
++}
+diff --git a/.stylelintrc b/.stylelintrc
+new file mode 100644
+index 0000000..4c9f58c
+--- /dev/null
++++ b/.stylelintrc
+@@ -0,0 +1,46 @@
++{
++  "rules": {
++    "block-closing-brace-newline-after": "always",
++    "block-closing-brace-newline-before": "always-multi-line",
++    "block-no-empty": true,
++    "block-opening-brace-newline-after": "always-multi-line",
++    "block-opening-brace-space-before": "always",
++    "color-hex-case": "lower",
++    "color-hex-length": "long",
++    "color-no-invalid-hex": true,
++    "comment-empty-line-before": "always",
++    "comment-whitespace-inside": "always",
++    "declaration-block-no-shorthand-property-overrides": true,
++    "declaration-block-semicolon-newline-after": "always",
++    "declaration-block-semicolon-space-before": "never",
++    "declaration-block-trailing-semicolon": "always",
++    "declaration-colon-space-after": "always",
++    "declaration-colon-space-before": "never",
++    "declaration-no-important": true,
++    "function-calc-no-unspaced-operator": true,
++    "function-comma-space-after": "always",
++    "function-comma-space-before": "never",
++    "function-parentheses-space-inside": "never",
++    "function-whitespace-after": "always",
++    "indentation": 4,
++    "media-feature-colon-space-after": "always",
++    "media-feature-colon-space-before": "never",
++    "media-feature-name-no-vendor-prefix": true,
++    "media-feature-range-operator-space-after": "always",
++    "media-feature-range-operator-space-before": "always",
++    "media-query-list-comma-space-after": "always-single-line",
++    "media-query-list-comma-space-before": "never",
++    "no-eol-whitespace": true,
++    "number-leading-zero": "always",
++    "number-no-trailing-zeros": true,
++    "length-zero-no-unit": true,
++    "rule-non-nested-empty-line-before": ["always", { "except": ["after-single-line-comment"] }],
++    "selector-combinator-space-after": "always",
++    "selector-combinator-space-before": "always",
++    "selector-list-comma-newline-after": "always",
++    "selector-list-comma-space-before": "never",
++    "selector-pseudo-element-colon-notation": "double",
++    "value-list-comma-space-after": "always",
++    "value-list-comma-space-before": "never"
++  }
++}
+diff --git a/css/app.css b/css/app.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/img/.gitkeep b/img/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..5bb533a
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,16 @@
++<!doctype html>
++<html lang="en">
++<head>
++    <meta charset="utf-8">
++    <title>Blog Project</title>
++    <meta name="viewport" content="width=device-width, initial-scale=1">
++    <meta name="description" content="">
++    <link rel="stylesheet" href="css/app.css">
++</head>
++<body>
++
++
++
++    <script src="js/app.js"></script>
++</body>
++</html>
+diff --git a/js/app.js b/js/app.js
+new file mode 100644
+index 0000000..e69de29
+
+commit 9362088ca2967b53dac28993d027aac8b1c39597
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 12:36:04 2016 -0500
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..9d4ce77
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,27 @@
++# Version Control with Git
++
++This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
++
++This repo contains the source code of a blog project that will be used throughout the course.
++
++## Table of Contents
++
++* [Instructions](#instructions)
++* [Creator](#creators)
++
++## Instructions
++
++* clone the project
++* open the index file in a browser
++
++## Creators
++
++* Richard Kalehoff
++    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
++    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
++
++With the help of:
++
++* Colt
++* James
++* Julia
+user (master) course-git-blog-project
+$ git log --oneline
+b0da0bd (HEAD -> master, origin/master, origin/HEAD) updating .gitignore file
+a2ec9ea Create CODEOWNERS
+00dca03 Fix the JIRA ticket title
+566ab7f Update manual.yml
+57e6291 Update manual.yml
+7279ecb Update .gitignore
+488e6c8 Create manual.yml
+06e9739 Update README.md
+a3dc99a Center content on page
+6f04ddd Add breakpoint for large-sized screens
+50d835d Add breakpoint for medium-sized screens
+0768f3d Add space around page edge
+b0da0bd (HEAD -> master, origin/master, origin/HEAD) updating .gitignore file
+a2ec9ea Create CODEOWNERS
+00dca03 Fix the JIRA ticket title
+566ab7f Update manual.yml
+57e6291 Update manual.yml
+7279ecb Update .gitignore
+488e6c8 Create manual.yml
+06e9739 Update README.md
+a3dc99a Center content on page
+6f04ddd Add breakpoint for large-sized screens
+50d835d Add breakpoint for medium-sized screens
+0768f3d Add space around page edge
+f9720a9 Style page header
+8aa6668 Convert social links from text to images
+c165069 Add divider between content/footer
+39ff53c Add divider between main/side content
+20a3470 Add missing profile picture
+8d3ea36 Style 'read more' links
+e6a8e07 Set paragraph line-height
+4a60beb Set default text color
+5de135a Set article timestamp color
+921c387 Align article header content
+7471693 Make article images responsive
+user (master) course-git-blog-project
+$ git show 8aa6668
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+diff --git a/css/app.css b/css/app.css
+index 4dd2150..8f04485 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -78,6 +78,11 @@ aside {
+     padding-top: 2em;
+ }
+
++.social-link {
++    display: inline-block;
++    margin-right: 0.75em;
++}
++
+
+ /*** Footer Styling ***/
+ footer {
+diff --git a/img/social-google.png b/img/social-google.png
+new file mode 100644
+index 0000000..e86eedc
+Binary files /dev/null and b/img/social-google.png differ
+diff --git a/img/social-instagram.png b/img/social-instagram.png
+new file mode 100644
+index 0000000..9608443
+Binary files /dev/null and b/img/social-instagram.png differ
+diff --git a/img/social-twitter.png b/img/social-twitter.png
+new file mode 100644
+index 0000000..6bbd0e1
+Binary files /dev/null and b/img/social-twitter.png differ
+index 0000000..9608443
+Binary files /dev/null and b/img/social-instagram.png differ
+diff --git a/img/social-twitter.png b/img/social-twitter.png
+new file mode 100644
+index 0000000..6bbd0e1
+Binary files /dev/null and b/img/social-twitter.png differ
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+diff --git a/css/app.css b/css/app.css
+index 4dd2150..8f04485 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -78,6 +78,11 @@ aside {
+     padding-top: 2em;
+ }
+
++.social-link {
++    display: inline-block;
++    margin-right: 0.75em;
++}
++
+
+ /*** Footer Styling ***/
+ footer {
+diff --git a/img/social-google.png b/img/social-google.png
+new file mode 100644
+index 0000000..e86eedc
+Binary files /dev/null and b/img/social-google.png differ
+diff --git a/img/social-instagram.png b/img/social-instagram.png
+new file mode 100644
+index 0000000..9608443
+Binary files /dev/null and b/img/social-instagram.png differ
+diff --git a/img/social-twitter.png b/img/social-twitter.png
+new file mode 100644
+index 0000000..6bbd0e1
+Binary files /dev/null and b/img/social-twitter.png differ
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+diff --git a/css/app.css b/css/app.css
+index 4dd2150..8f04485 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -78,6 +78,11 @@ aside {
+     padding-top: 2em;
+ }
+
++.social-link {
++    display: inline-block;
++    margin-right: 0.75em;
++}
++
+
+ /*** Footer Styling ***/
+ footer {
+diff --git a/img/social-google.png b/img/social-google.png
+user (master) course-git-blog-project
+$ git show 8aa6668
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+diff --git a/css/app.css b/css/app.css
+index 4dd2150..8f04485 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -78,6 +78,11 @@ aside {
+     padding-top: 2em;
+ }
+
++.social-link {
++    display: inline-block;
++    margin-right: 0.75em;
++}
++
+
+ /*** Footer Styling ***/
+ footer {
+diff --git a/img/social-google.png b/img/social-google.png
+user (master) course-git-blog-project
+$ git log --stat 8aa6668
+commit 8aa6668071b2ed80affa49af68a61350ee8d4765
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Mon Dec 5 09:55:23 2016 -0500
+
+    Convert social links from text to images
+
+ css/app.css              |   5 +++++
+ img/social-google.png    | Bin 0 -> 920 bytes
+ img/social-instagram.png | Bin 0 -> 1071 bytes
+ img/social-twitter.png   | Bin 0 -> 755 bytes
+ index.html               |  12 +++++++++---
+ 5 files changed, 14 insertions(+), 3 deletions(-)
+
+commit c16506960bddd6ae6220a8a3a5ba5d758ecc5d0f
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Sat Dec 3 16:09:00 2016 -0500
+
+    Add divider between content/footer
+
+ css/app.css | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 39ff53ca09e33c9662a6ace83a048a8677750120
+user (master) course-git-blog-project
+$ git log --patch fdf5493
+commit fdf549341ffc482820351294c9ece13525bf89ea
+Author: Richard Kalehoff <richardkalehoff@gmail.com>
+Date:   Fri Dec 2 13:35:50 2016 -0500
+
+    Add sidebar content
+
+diff --git a/index.html b/index.html
+index 95b0772..b269b91 100644
+--- a/index.html
++++ b/index.html
+@@ -61,7 +61,17 @@
+         </article>
+     </main>
+
+-    <aside></aside>
++    <aside>
++        <h2>About Me</h2>
++        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ducimus delectus esse repellendus. Harum esse laudantium itaque, aut cum molestias magni voluptatum veritatis alias. Veniam, impedit fuga ab saepe repudiandae.</p>
++
++        <section>
++            <h3>Social Links</h3>
+user (master) course-git-blog-project
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Convert
+
+nothing added to commit but untracked files present (use "git add" to track)
+user (master) course-git-blog-project
+$ rm Convert
+user (master) course-git-blog-project
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+user (master) course-git-blog-project
+$ cd ..
+user Projects
+$ ls
+course-git-blog-project/  git_project_1/
+user Projects
+$ mkdir new_git_project
+user Projects
+$ ls
+course-git-blog-project/  git_project_1/  new_git_project/
+user Projects
+$ cd new_git_project
+user new_git_project
+$ ls
+user new_git_project
+$ git init
+Initialized empty Git repository in D:/Projects/new_git_project/.git/
+user (master #) new_git_project
+$ ls
+user (master #) new_git_project
+$ ls -a
+./  ../  .git/
+user (master #) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+user (master #) new_git_project
+$ touch index.html
+user (master #) new_git_project
+$ ls
+index.html
+user (master #) new_git_project
+$ nano index.html
+user (master #) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+user (master #) new_git_project
+$ touch css.css js.js
+user (master #) new_git_project
+$ ls
+css.css  index.html  js.js
+user (master #) new_git_project
+$ rm css.css js.js
+user (master #) new_git_project
+$ ls
+index.html
+user (master #) new_git_project
+$ mkdir css js
+user (master #) new_git_project
+$ ls
+css/  index.html  js/
+user (master #) new_git_project
+$ cd cdd
+bash: cd: cdd: No such file or directory
+user (master #) new_git_project
+$ cd css
+user (master #) css
+$ touch app.css
+user (master #) css
+$ ls
+app.css
+user (master #) css
+$ cd ..
+user (master #) new_git_project
+$ ls
+css/  index.html  js/
+user (master #) new_git_project
+$ cd js
+user (master #) js
+$ touch app.js
+user (master #) js
+$ ls
+app.js
+user (master #) js
+$ cd ..
+user (master #) new_git_project
+$ ls
+css/  index.html  js/
+user (master #) new_git_project
+$ codium index.html
+user (master #) new_git_project
+$
+user (master #) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        css/
+        index.html
+        js/
+
+nothing added to commit but untracked files present (use "git add" to track)
+user (master #) new_git_project
+$ git add -a
+error: unknown switch `a'
+usage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --sparse              allow updating entries outside of the sparse-checkout cone
+    --chmod (+|-)x        override the executable bit of the listed files
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+user (master #) new_git_project
+$ git add *
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+user (master +) new_git_project
+$ ls
+css/  index.html  js/
+user (master +) new_git_project
+$ git stati\us
+git: 'statius' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+user (master +) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   css/app.css
+        new file:   index.html
+        new file:   js/app.js
+
+user (master +) new_git_project
+$ git rm --cached css/app.css js/app.js
+rm 'css/app.css'
+rm 'js/app.js'
+user (master +) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        css/
+        js/
+
+user (master +) new_git_project
+$ git add .
+user (master +) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   css/app.css
+        new file:   index.html
+        new file:   js/app.js
+
+user (master +) new_git_project
+$ git commit
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wait
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-Module PSReadLine'.
+
+
+Aborting commit due to empty commit message.
+user (master +) new_git_project
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   css/app.css
+        new file:   index.html
+        new file:   js/app.js
+
+user (master +) new_git_project
+$ git commit
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wait
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-Module PSReadLine'.
+
+
+[master (root-commit) 48ea592] first commit while learning version control
+ 3 files changed, 15 insertions(+)
+ create mode 100644 css/app.css
+ create mode 100644 index.html
+ create mode 100644 js/app.js
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git lig
+git: 'lig' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+user (master) new_git_project
+$ git log
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git log -p --stat
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+---
+ css/app.css |  0
+ index.html  | 15 +++++++++++++++
+ js/app.js   |  0
+ 3 files changed, 15 insertions(+)
+
+diff --git a/css/app.css b/css/app.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..9d80fe7
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,15 @@
++<!doctype html>
++<html lang="en">
++<head>
++    <meta charset="utf-8">
++    <title>Blog Project</title>
++    <meta name="viewport" content="width=device-width, initial-scale=1">
++    <meta name="description" content="">
++    <link rel="stylesheet" href="css/app.css">
++</head>
++<body>
++
++    <script src="js/app.js"></script>
++</body>
++</html>
++
+diff --git a/js/app.js b/js/app.js
+new file mode 100644
+index 0000000..e69de29
+user (master) new_git_project
+$ ls
+css/  index.html  js/
+user (master) new_git_project
+$ codium index.html
+user (master) new_git_project
+$ ls
+css/  index.html  js/
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+user (master *) new_git_project
+$ git add .
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+user (master +) new_git_project
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+user (master +) new_git_project
+$ git commit -m "Second commit bro"
+[master 00d2af9] Second commit bro
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+user (master) new_git_project
+$ codium index.html
+user (master) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git add index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master +) new_git_project
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+user (master +) new_git_project
+$ git restore --staged index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git diff
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+diff --git a/index.html b/index.html
+index ce79b08..7db285d 100644
+--- a/index.html
++++ b/index.html
+@@ -9,7 +9,8 @@
+ </head>
+ <body>
+     <header>
+-        <h1>Expedition</h1>
++        <h1>Adventure
++        </h1>
+     </header>
+     <script src="js/app.js"></script>
+ </body>
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls
+css/  index.html  js/
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ touch project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ mkdir .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+luser (master *) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git status
+warning: unable to access '.gitignore': Permission denied
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        project.docx
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ cd  .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) .gitignore
+$ ls
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) .gitignore
+$ touch .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) .gitignore
+$ ls --a
+ls: ambiguous option -- a
+Try 'ls --help' for more information.
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) .gitignore
+$ ls -a
+./  ../  .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) .gitignore
+$ cd ..
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git rm .gitignore
+fatal: pathspec '.gitignore' did not match any files
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ rm -rf .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ touch .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore  css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ nano .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ start .gitignore
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
+gwarning: in the working copy of 'index.html', LF will be replaced by CRLF the ne time Git touches it
+ituser (master *) new_git_project
+$ git add .
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the nextime Git touches it
+giuser (master +) new_git_project
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .gitignore
+        modified:   index.html
+
+user (master +) new_git_project
+$ git commit
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaed PSReadLine for compatibility purposes. If you want to re-enable it, run 'ImporModule PSReadLine'.
+
+
+[master 04c1352] Learn to use git ignore
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100644 .gitignore
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ ls -a
+./  ../  .git/  .gitignore  css/  index.html  js/  project.docx
+user (master) new_git_project
+$ git log --oneline
+04c1352 (HEAD -> master) Learn to use git ignore
+00d2af9 Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git log --decorate
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git  log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git tag -a v1.0
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaed PSReadLine for compatibility purposes. If you want to re-enable it, run 'ImporModule PSReadLine'.
+
+
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master, tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git tag -d v1.0
+Deleted tag 'v1.0' (was 8602657)
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git log --oneline
+04c1352 (HEAD -> master) Learn to use git ignore
+00d2af9 Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git tag -a 00d2af9
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaed PSReadLine for compatibility purposes. If you want to re-enable it, run 'ImporModule PSReadLine'.
+
+
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master, tag: 00d2af9)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git tag -d 00d2af9
+Deleted tag '00d2af9' (was 5085fac)
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git tag -a v1.0 00d2af9
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaed PSReadLine for compatibility purposes. If you want to re-enable it, run 'ImporModule PSReadLine'.
+
+
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git branch
+* master
+user (master) new_git_project
+$ git branch path_1
+user (master) new_git_project
+$ git og
+git: 'og' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+user (master) new_git_project
+$ git loh
+git: 'loh' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+user (master) new_git_project
+$ git log
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704 (HEAD -> master, path_1)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git branch
+* master
+  path_1
+user (master) new_git_project
+$ git checkout path_1
+Switched to branch 'path_1'
+user (path_1) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+user (path_1) new_git_project
+$ git branch
+  master
+* path_1
+user (path_1) new_git_project
+$ git log --oneline --decorte
+fatal: unrecognized argument: --decorte
+user (path_1) new_git_project
+$ git log --oneline --decorate
+04c1352 (HEAD -> path_1, master) Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (path_1) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ ls
+css/  index.html  js/  project.docx
+user (master) new_git_project
+$ git rm project.docx
+fatal: pathspec 'project.docx' did not match any files
+user (master) new_git_project
+$ git -rm project.docx
+unknown option: -rm
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+user (master) new_git_project
+$ rm project.docx
+user (master) new_git_project
+$ ls
+css/  index.html  js/
+user (master) new_git_project
+$ codium index.html
+user (master) new_git_project
+$ vi index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master *) new_git_project
+$ git add .
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nextime Git touches it
+user (master +) new_git_project
+$ git statis
+git: 'statis' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+user (master +) new_git_project
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+user (master +) new_git_project
+$ git commit -m "Preping to learn branch effectively"
+[master 9ba67a4] Preping to learn branch effectively
+ 1 file changed, 13 insertions(+), 4 deletions(-)
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git branch
+* master
+  path_1
+user (master) new_git_project
+$ git branch -d path_
+error: branch 'path_' not found.
+user (master) new_git_project
+$ git branch -d path_1
+Deleted branch path_1 (was 04c1352).
+user (master) new_git_project
+$ git branch
+* master
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ cd css
+user (master) css
+$ s
+bash: s: command not found
+user (master) css
+$ ls
+app.css
+user (master) css
+$ start app.css
+user (master) css
+$ cd ..
+user (master *) new_git_project
+$ ls
+css/  index.html  js/
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   css/app.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (master *) new_git_project
+$ git branch sidebar
+user (master *) new_git_project
+$ git branch
+* master
+  sidebar
+user (master *) new_git_project
+$ git add  .
+guser (master +) new_git_project
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   css/app.css
+
+guser (master +) new_git_project
+$ git commit -m "Add a default color to the page"
+[master 6336138] Add a default color to the page
+ 1 file changed, 3 insertions(+)
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ start index.html
+user (master) new_git_project
+$ git log
+commit 6336138056e24a75c51c395727a14cad11c0eae5 (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c (sidebar)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master) Add a default color to the page
+9ba67a4 (sidebar) Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git branch -d sidebar
+Deleted branch sidebar (was 9ba67a4).
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master) Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git branch sidebar
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master, sidebar) Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git branch  -d sidebar
+Deleted branch sidebar (was 6336138).
+user (master) new_git_project
+$ git log --onelinne
+fatal: unrecognized argument: --onelinne
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master) Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git branch sidebar 9ba67a4
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master) Add a default color to the page
+9ba67a4 (sidebar) Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git checkout sidebar
+Switched to branch 'sidebar'
+user (sidebar) new_git_project
+$ cd css
+user (sidebar) css
+$ start app.css
+user (sidebar) css
+$ cd  ..
+user (sidebar) new_git_project
+$ start index.html
+user (sidebar) new_git_project
+$ ls
+css/  index.html  js/
+user (sidebar) new_git_project
+$ codium index.html
+user (sidebar) new_git_project
+$ vi index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ start index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ vi index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ nano index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ git status
+On branch sidebar
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ vi index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar *) new_git_project
+$ git add index.html
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the nex Git touches it
+user (sidebar +) new_git_project
+$ git status
+On branch sidebar
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+user (sidebar +) new_git_project
+$ git commit -m "Create a sidebar"
+[sidebar a915dd3] Create a sidebar
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+user (sidebar) new_git_project
+$ git status
+On branch sidebar
+nothing to commit, working tree clean
+user (sidebar) new_git_project
+$ git log --oneline
+a915dd3 (HEAD -> sidebar) Create a sidebar
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (sidebar) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ git log --onenline
+fatal: unrecognized argument: --onenline
+user (master) new_git_project
+$ git log --oneline
+6336138 (HEAD -> master) Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ nano index.html
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (master *) new_git_project
+$ git --diff
+unknown option: --diff
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+user (master *) new_git_project
+$ git show --diff
+fatal: unrecognized argument: --diff
+user (master *) new_git_project
+$ git diff
+diff --git a/index.html b/index.html
+index 7b10e69..60531c7 100644
+--- a/index.html
++++ b/index.html
+@@ -10,7 +10,7 @@
+ <body>
+
+     <header>
+-        <h1>Expedition</h1>
++        <h1>Adventure</h1>
+     </header>
+
+     <div class="container">
+@@ -24,4 +24,4 @@
+     </footer>
+     <script src="js/app.js"></script>
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+user (master *) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+giuser (master *) new_git_project
+$ git add .
+git user (master +) new_git_project
+$ git commit -m "Change Heading"
+[master 47d8475] Change Heading
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+git status
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git log --oneline
+47d8475 (HEAD -> master) Change Heading
+6336138 Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git checkout sidebar
+Switched to branch 'sidebar'
+user (sidebar) new_git_project
+$ git branch
+  master
+* sidebar
+user (sidebar) new_git_project
+$ vi index.html
+user (sidebar) new_git_project
+$ codium index.html
+user (sidebar) new_git_project
+$ git status
+On branch sidebar
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (sidebar *) new_git_project
+$ git add .
+guser (sidebar +) new_git_project
+$ git commit -m "Add content to sidebar"
+[sidebar 01196ee] Add content to sidebar
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+user (sidebar) new_git_project
+$ git statsu
+git: 'statsu' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+user (sidebar) new_git_project
+$ git status
+On branch sidebar
+nothing to commit, working tree clean
+user (sidebar) new_git_project
+$ git branch foot
+user (sidebar) new_git_project
+$ git branch
+  foot
+  master
+* sidebar
+user (sidebar) new_git_project
+$ git branch -d foot
+Deleted branch foot (was 01196ee).
+user (sidebar) new_git_project
+$ git branch
+  master
+* sidebar
+user (sidebar) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ git branch  footer
+user (master) new_git_project
+$ git branch
+  footer
+* master
+  sidebar
+user (master) new_git_project
+$ git footer
+git: 'footer' is not a git command. See 'git --help'.
+
+The most similar command is
+        restore
+user (master) new_git_project
+$ git checkout footer
+Switched to branch 'footer'
+user (footer) new_git_project
+$ git sidebbar
+git: 'sidebbar' is not a git command. See 'git --help'.
+user (footer) new_git_project
+$ git checkout sidebar
+Switched to branch 'sidebar'
+user (sidebar) new_git_project
+$ git branch -d footer
+error: The branch 'footer' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D footer'.
+user (sidebar) new_git_project
+$ git branch -D footer
+Deleted branch footer (was 47d8475).
+user (sidebar) new_git_project
+$ git checkout -b footer master
+Switched to a new branch 'footer'
+user (footer) new_git_project
+$ git log
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c (HEAD -> footer, master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (footer) new_git_project
+$ git sidebar
+git: 'sidebar' is not a git command. See 'git --help'.
+guser (footer) new_git_project
+$ git checkout sidebar
+Switched to branch 'sidebar'
+user (sidebar) new_git_project
+$ git branch -d footer
+
+error: The branch 'footer' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D footer'.
+user (sidebar) new_git_project
+$
+user (sidebar) new_git_project
+$ git branch -D footer
+Deleted branch footer (was 47d8475).
+user (sidebar) new_git_project
+$ git checkout -b footer
+Switched to a new branch 'footer'
+user (footer) new_git_project
+$ git log
+commit 01196eea53f490245ba3153a47c8fe4f47b0873b (HEAD -> footer, sidebar)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:42:57 2023 +0530
+
+    Add content to sidebar
+
+commit a915dd37dc76c36be46b9bd09db1160a6f7a48f6
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:31:19 2023 +0530
+
+    Create a sidebar
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (footer) new_git_project
+$ git master
+git: 'master' is not a git command. See 'git --help'.
+
+The most similar command is
+        restore
+user (footer) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ git branch -D footer
+Deleted branch footer (was 01196ee).
+user (master) new_git_project
+$ git checkout -b footer
+Switched to a new branch 'footer'
+user (footer) new_git_project
+$ git lg
+git: 'lg' is not a git command. See 'git --help'.
+
+The most similar command is
+        log
+user (footer) new_git_project
+$ git log
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c (HEAD -> footer, master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (footer) new_git_project
+$ codium index.html
+user (footer) new_git_project
+$ git status
+On branch footer
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+giuser (footer *) new_git_project
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+user (footer *) new_git_project
+$ git add .
+giuser (footer +) new_git_project
+$ git status
+On branch footer
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+giuser (footer +) new_git_project
+$ git commit -m "Add Footer"
+[footer 26e21a0] Add Footer
+ 1 file changed, 12 insertions(+)
+user (footer) new_git_project
+$ git statuss
+git: 'statuss' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+giuser (footer) new_git_project
+$ git statis
+git: 'statis' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+guser (footer) new_git_project
+$ git status
+On branch footer
+nothing to commit, working tree clean
+user (footer) new_git_project
+$ git log
+commit 26e21a0702c7a608c82230fbef7dd8e5d203c6d6 (HEAD -> footer)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:57:20 2023 +0530
+
+    Add Footer
+
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c (master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (footer) new_git_project
+$ git log --graph --all
+* commit 26e21a0702c7a608c82230fbef7dd8e5d203c6d6 (HEAD -> footer)
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Mon Apr 3 00:57:20 2023 +0530
+|
+|     Add Footer
+|
+* commit 47d84758bd9fe884e9aa9985a38238cc805efc6c (master)
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Mon Apr 3 00:35:44 2023 +0530
+|
+|     Change Heading
+|
+* commit 6336138056e24a75c51c395727a14cad11c0eae5
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Sun Apr 2 22:15:39 2023 +0530
+|
+|     Add a default color to the page
+|
+| * commit 01196eea53f490245ba3153a47c8fe4f47b0873b (sidebar)
+| | Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| | Date:   Mon Apr 3 00:42:57 2023 +0530
+| |
+| |     Add content to sidebar
+| |
+| * commit a915dd37dc76c36be46b9bd09db1160a6f7a48f6
+|/  Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+|   Date:   Mon Apr 3 00:31:19 2023 +0530
+|
+|       Create a sidebar
+|
+* commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Sun Apr 2 21:22:43 2023 +0530
+|
+|     Preping to learn branch effectively
+|
+* commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Sun Apr 2 12:49:15 2023 +0530
+|
+|     Learn to use git ignore
+|
+* commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+| Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+| Date:   Sun Apr 2 11:52:32 2023 +0530
+|
+|     Second commit bro
+|
+* commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+  Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+  Date:   Sun Apr 2 11:44:50 2023 +0530
+user (footer) new_git_project
+$ git log --oneline --graph --all
+* 26e21a0 (HEAD -> footer) Add Footer
+* 47d8475 (master) Change Heading
+* 6336138 Add a default color to the page
+| * 01196ee (sidebar) Add content to sidebar
+| * a915dd3 Create a sidebar
+|/
+* 9ba67a4 Preping to learn branch effectively
+* 04c1352 Learn to use git ignore
+* 00d2af9 (tag: v1.0) Second commit bro
+* 48ea592 first commit while learning version control
+user (footer) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ git log
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c (HEAD -> master)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:52:32 2023 +0530
+
+    Second commit bro
+
+commit 48ea5923e8dbc7b51c0ff3f9d2a760f2c9acdbb3
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 11:44:50 2023 +0530
+
+    first commit while learning version control
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git merge footer
+Updating 47d8475..26e21a0
+Fast-forward
+ index.html | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+user (master) new_git_project
+$ git log --oneline
+26e21a0 (HEAD -> master, footer) Add Footer
+47d8475 Change Heading
+6336138 Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git merge sidebar
+Auto-merging index.html
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-MoSReadLine'.
+
+
+error: Empty commit message.
+Not committing merge; use 'git commit' to complete the merge.
+user (master +|MERGING) new_git_project
+$ git merge sidebra
+fatal: You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before you merge.
+user (master +|MERGING) new_git_project
+$ git merge sidebar
+fatal: You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before you merge.
+user (master +|MERGING) new_git_project
+$ git status
+On branch master
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+        modified:   index.html
+
+user (master +|MERGING) new_git_project
+$ git diff
+user (master +|MERGING) new_git_project
+$ git log -p
+commit 26e21a0702c7a608c82230fbef7dd8e5d203c6d6 (HEAD -> master, footer)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:57:20 2023 +0530
+
+    Add Footer
+
+diff --git a/index.html b/index.html
+index 60531c7..e27579e 100644
+--- a/index.html
++++ b/index.html
+@@ -20,6 +20,18 @@
+     </div>
+
+     <footer>
++        <section>
++            <h3 class="visuallyhidden">Social Links</h3>
++            <a class="social-link" href="https://twitter.com/udacity">
++                <img src="img/social-twitter.png" alt="Twitter">
++            </a>
++            <a class="social-link" href="https://www.instagram.com/udacity/">
++                <img src="img/social-instagram.png" alt="Instagram">
++            </a>
++            <a class="social-link" href="https://plus.google.com/+Udacity">
++                <img src="img/social-google.png" alt="Google Plus">
++            </a>
++        </section>
+         Made with ♥ @ Udacity
+     </footer>
+     <script src="js/app.js"></script>
+
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+diff --git a/index.html b/index.html
+index 7b10e69..60531c7 100644
+--- a/index.html
++++ b/index.html
+@@ -10,7 +10,7 @@
+ <body>
+
+     <header>
+-        <h1>Expedition</h1>
++        <h1>Adventure</h1>
+     </header>
+
+     <div class="container">
+@@ -24,4 +24,4 @@
+     </footer>
+     <script src="js/app.js"></script>
+ </body>
+-</html>
+\ No newline at end of file
++</html>
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+diff --git a/css/app.css b/css/app.css
+index e69de29..c767d7e 100644
+--- a/css/app.css
++++ b/css/app.css
+@@ -0,0 +1,3 @@
++body {
++    background-color: #00cae4;
++}
+commit 26e21a0702c7a608c82230fbef7dd8e5d203c6d6 (HEAD -> master, footer)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:57:20 2023 +0530
+
+    Add Footer
+
+diff --git a/index.html b/index.html
+index 60531c7..e27579e 100644
+--- a/index.html
++++ b/index.html
+@@ -20,6 +20,18 @@
+     </div>
+
+     <footer>
++        <section>
++            <h3 class="visuallyhidden">Social Links</h3>
++            <a class="social-link" href="https://twitter.com/udacity">
++                <img src="img/social-twitter.png" alt="Twitter">
++            </a>
++            <a class="social-link" href="https://www.instagram.com/udacity/">
++                <img src="img/social-instagram.png" alt="Instagram">
++            </a>
++            <a class="social-link" href="https://plus.google.com/+Udacity">
++                <img src="img/social-google.png" alt="Google Plus">
++            </a>
++        </section>
+         Made with ♥ @ Udacity
+     </footer>
+     <script src="js/app.js"></script>
+
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+diff --git a/index.html b/index.html
+index 7b10e69..60531c7 100644
+--- a/index.html
++++ b/index.html
+@@ -10,7 +10,7 @@
+ <body>
+
+     <header>
+-        <h1>Expedition</h1>
++        <h1>Adventure</h1>
+     </header>
+
+     <div class="container">
+@@ -24,4 +24,4 @@
+     </footer>
+user (master +|MERGING) new_git_project
+$ git merge sidebar
+fatal: You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before you merge.
+user (master +|MERGING) new_git_project
+$ git commit
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-MoSReadLine'.
+
+
+[master 847278f] Merge branch 'sidebar'
+user (master) new_git_project
+$ git log
+commit 847278f1f22d29142234f769ea3aa9f85afa71f4 (HEAD -> master)
+Merge: 26e21a0 01196ee
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 04:30:50 2023 +0530
+
+    Merge branch 'sidebar'
+
+commit 26e21a0702c7a608c82230fbef7dd8e5d203c6d6 (footer)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:57:20 2023 +0530
+
+    Add Footer
+
+commit 01196eea53f490245ba3153a47c8fe4f47b0873b (sidebar)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:42:57 2023 +0530
+
+    Add content to sidebar
+
+commit 47d84758bd9fe884e9aa9985a38238cc805efc6c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:35:44 2023 +0530
+
+    Change Heading
+
+commit a915dd37dc76c36be46b9bd09db1160a6f7a48f6
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 00:31:19 2023 +0530
+
+    Create a sidebar
+
+commit 6336138056e24a75c51c395727a14cad11c0eae5
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 22:15:39 2023 +0530
+
+    Add a default color to the page
+
+commit 9ba67a4c1c88477dab2a4488a2d874d7b2c66a7c
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 21:22:43 2023 +0530
+
+    Preping to learn branch effectively
+
+commit 04c135233eb714a07ef3c48f7ba64fc754b74704
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Sun Apr 2 12:49:15 2023 +0530
+
+    Learn to use git ignore
+
+commit 00d2af9e31cec256d039dd84f70911f6be8c6b17 (tag: v1.0)
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+user (master) new_git_project
+$ git branch
+  footer
+* master
+  sidebar
+user (master) new_git_project
+$ git log --oneline
+847278f (HEAD -> master) Merge branch 'sidebar'
+26e21a0 (footer) Add Footer
+01196ee (sidebar) Add content to sidebar
+47d8475 Change Heading
+a915dd3 Create a sidebar
+6336138 Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git checkout -b heading-update a915dd3
+Switched to a new branch 'heading-update'
+user (heading-update) new_git_project
+$ codium index.html
+user (heading-update) new_git_project
+$ git statu
+git: 'statu' is not a git command. See 'git --help'.
+
+The most similar commands are
+        status
+        stage
+        stash
+user (heading-update *) new_git_project
+$ git status
+On branch heading-update
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (heading-update *) new_git_project
+$ git add .
+giuser (heading-update +) new_git_project
+$ git commit -m "Force a Merge Conflict"
+[heading-update 26d7ab9] Force a Merge Conflict
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+user (heading-update) new_git_project
+$ git status
+On branch heading-update
+nothing to commit, working tree clean
+gituser (heading-update) new_git_project
+$ git checkout master
+Switched to branch 'master'
+user (master) new_git_project
+$ git branch
+  footer
+  heading-update
+* master
+  sidebar
+giuser (master) new_git_project
+$ git merge heading-update
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+user (master *+|MERGING) new_git_project
+$ codium index.html
+user (master *+|MERGING) new_git_project
+$ git checkout master
+error: you need to resolve your current index first
+index.html: needs merge
+user (master *+|MERGING) new_git_project
+$ abort merge
+bash: abort: command not found
+user (master *+|MERGING) new_git_project
+$ git merge --abort
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git checkout master
+Already on 'master'
+user (master) new_git_project
+$ codium index.html
+user (master) new_git_project
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+giuser (master *) new_git_project
+$ git add .
+guser (master +) new_git_project
+$ git commit -m "Change Heading on master branch for merge conflict"
+[master 03a08c4] Change Heading on master branch for merge conflict
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+user (master) new_git_project
+$ git status
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ vi index.html
+user (master) new_git_project
+$ git checkout heading-update
+Switched to branch 'heading-update'
+user (heading-update) new_git_project
+$ codium index.html
+user (heading-update) new_git_project
+$ git statsu
+git: 'statsu' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+user (heading-update *) new_git_project
+$ git status
+On branch heading-update
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (heading-update *) new_git_project
+$ git add .
+git user (heading-update +) new_git_project
+$ git commit -m "Change Heading on heading-update branch to cause merge conflict"
+[heading-update b654573] Change Heading on heading-update branch to cause merge ct
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+user (heading-update) new_git_project
+$ git status
+On branch heading-update
+nothing to commit, working tree clean
+user (heading-update) new_git_project
+$ git checkout master
+Switched to branch 'master'
+giuser (master) new_git_project
+$ git log --oneline --graph --all
+* b654573 (heading-update) Change Heading on heading-update branch to cause mergeict
+* 26d7ab9 Force a Merge Conflict
+| * 03a08c4 (HEAD -> master) Change Heading on master branch for merge conflict
+| *   847278f Merge branch 'sidebar'
+| |\
+| | * 01196ee (sidebar) Add content to sidebar
+| |/
+|/|
+* | a915dd3 Create a sidebar
+| * 26e21a0 (footer) Add Footer
+| * 47d8475 Change Heading
+| * 6336138 Add a default color to the page
+|/
+* 9ba67a4 Preping to learn branch effectively
+* 04c1352 Learn to use git ignore
+* 00d2af9 (tag: v1.0) Second commit bro
+* 48ea592 first commit while learning version control
+user (master) new_git_project
+$ ^Ct log
+user (master) new_git_project
+$ git merge heading-update
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+user (master *+|MERGING) new_git_project
+$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (master *+|MERGING) new_git_project
+$ codium index.html
+user (master *+|MERGING) new_git_project
+$ git commit
+error: Committing is not possible because you have unmerged files.
+hint: Fix them up in the work tree, and then use 'git add/rm <file>'
+hint: as appropriate to mark resolution and make a commit.
+fatal: Exiting because of an unresolved conflict.
+U       index.html
+user (master *+|MERGING) new_git_project
+$ git statuts
+git: 'statuts' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+user (master *+|MERGING) new_git_project
+$ git status
+On branch master
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+user (master *+|MERGING) new_git_project
+$ git add .
+user (master +|MERGING) new_git_project
+$ git commit -m "Choosing an appropriate heading resolving merge conflict"
+[master a72df0c] Choosing an appropriate heading resolving merge conflict
+user (master) new_git_project
+$ git commit
+On branch master
+nothing to commit, working tree clean
+user (master) new_git_project
+$ git log --oneline --graph --all
+*   a72df0c (HEAD -> master) Choosing an appropriate heading resolving merge confct
+|\
+| * b654573 (heading-update) Change Heading on heading-update branch to cause mer conflict
+| * 26d7ab9 Force a Merge Conflict
+* | 03a08c4 Change Heading on master branch for merge conflict
+* |   847278f Merge branch 'sidebar'
+|\ \
+| * | 01196ee (sidebar) Add content to sidebar
+| |/
+| * a915dd3 Create a sidebar
+* | 26e21a0 (footer) Add Footer
+* | 47d8475 Change Heading
+* | 6336138 Add a default color to the page
+|/
+* 9ba67a4 Preping to learn branch effectively
+* 04c1352 Learn to use git ignore
+* 00d2af9 (tag: v1.0) Second commit bro
+* 48ea592 first commit while learning version control
+user (master) new_git_project
+$ git commit --amend
+hint: Waiting for your editor to close the file... cygpath: unknown option -- wai
+Try `cygpath --help' for more information.
+Warning: PowerShell detected that you might be using a screen reader and has disaled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Impot-Module PSReadLine'.
+
+
+[master d2457a0] Merge Conflict Resolved
+ Date: Mon Apr 3 05:32:47 2023 +0530
+user (master) new_git_project
+$ git log --oneline
+d2457a0 (HEAD -> master) Merge Conflict Resolved
+b654573 (heading-update) Change Heading on heading-update branch to cause merge cnflict
+03a08c4 Change Heading on master branch for merge conflict
+26d7ab9 Force a Merge Conflict
+847278f Merge branch 'sidebar'
+26e21a0 (footer) Add Footer
+01196ee (sidebar) Add content to sidebar
+47d8475 Change Heading
+a915dd3 Create a sidebar
+6336138 Add a default color to the page
+9ba67a4 Preping to learn branch effectively
+04c1352 Learn to use git ignore
+00d2af9 (tag: v1.0) Second commit bro
+48ea592 first commit while learning version control
+user (master) new_git_project
+$ git log --oneline --graph
+*   d2457a0 (HEAD -> master) Merge Conflict Resolved
+|\
+| * b654573 (heading-update) Change Heading on heading-update branch to cause mere conflict
+| * 26d7ab9 Force a Merge Conflict
+* | 03a08c4 Change Heading on master branch for merge conflict
+* |   847278f Merge branch 'sidebar'
+|\ \
+| * | 01196ee (sidebar) Add content to sidebar
+| |/
+| * a915dd3 Create a sidebar
+* | 26e21a0 (footer) Add Footer
+* | 47d8475 Change Heading
+* | 6336138 Add a default color to the page
+|/
+* 9ba67a4 Preping to learn branch effectively
+* 04c1352 Learn to use git ignore
+* 00d2af9 (tag: v1.0) Second commit bro
+* 48ea592 first commit while learning version control
+user (master) new_git_project
+$ git revert d2457a0
+error: commit d2457a0625f505e80b453814433aa0efd43823b0 is a merge but no -m optio was given.
+fatal: revert failed
+user (master) new_git_project
+$ git revert d2457a0 -m "Revert Last Commit"
+error: option `mainline' expects a number greater than zero
+user (master) new_git_project
+$ git show d2457a0
+commit d2457a0625f505e80b453814433aa0efd43823b0 (HEAD -> master)
+Merge: 03a08c4 b654573
+Author: Vishnu Sharma <vishnusharma9677@gmail.com>
+Date:   Mon Apr 3 05:32:47 2023 +0530
+
+    Merge Conflict Resolved
+
+diff --cc index.html
+index 58867c7,89bb77f..3ba58c3
+--- a/index.html
++++ b/index.html
+@@@ -10,7 -10,7 +10,7 @@@
+  <body>
+
+      <header>
+-         <h1>Quest</h1>
+ -        <h1>Crusade</h1>
+++        <h1>Expedition is a better heading</h1>
+      </header>
+
+      <div class="container">
+user (master) new_git_project
+$ git revert d2457a0 -m 1 "Use Revert commnd"
+fatal: bad revision 'Use Revert commnd'
+user (master) new_git_project
+$ git remote
+user (master) new_git_project
+$
